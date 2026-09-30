@@ -16,7 +16,6 @@ The public evidence audit records one public commit in the Microsoft Support Art
 | --- | --- |
 | [Microsoft Support Articles repository](https://github.com/bandersmsft/SupportArticles-docs) | Public repository mirror associated with my GitHub account. |
 | [Support Articles commits](https://github.com/MicrosoftDocs/SupportArticles-docs/commits?author=bandersmsft) | One public commit in the September 2026 evidence audit. |
-| [Public evidence audit](../../Evidence/github-evidence.md) | Durable local record of the commit count and link. |
 
 ## Portfolio framing
 

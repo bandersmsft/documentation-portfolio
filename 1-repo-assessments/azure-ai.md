@@ -16,9 +16,8 @@ I created and updated customer-facing documentation for Azure AI Video Indexer L
 | Evidence | What it shows |
 | --- | --- |
 | [Azure AI documentation repository](https://github.com/bandersmsft/azure-ai-docs) | Public repository mirror associated with my GitHub account. |
-| [Azure AI documentation commits](https://github.com/MicrosoftDocs/azure-ai-docs/commits?author=bandersmsft) | Publicly verifiable contribution history. |
+| [Azure AI documentation commits](https://github.com/bandersmsft/azure-ai-docs/commits?author=bandersmsft) | Publicly verifiable contribution history in the preserved personal fork. |
 | [Azure AI Video Indexer documentation](https://learn.microsoft.com/en-us/azure/azure-video-indexer/) | Published customer-facing documentation destination. |
-| [Local Work IQ evidence](../../Evidence/workiq-retrieval-01.md) | Internal corroboration for the Live Analysis launch scope and article set. |
 
 ## Portfolio framing
 

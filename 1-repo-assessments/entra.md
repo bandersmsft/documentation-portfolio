@@ -17,7 +17,6 @@ The public evidence audit records contributions to the Microsoft Entra documenta
 | [Microsoft Entra documentation repository](https://github.com/MicrosoftDocs/entra-docs) | Microsoft-owned public repository. No personal copy was verified. |
 | [Microsoft Entra documentation commits](https://github.com/MicrosoftDocs/entra-docs/commits?author=bandersmsft) | 94 public commits in the September 2026 evidence audit. |
 | [Microsoft Entra documentation](https://learn.microsoft.com/en-us/entra/) | Published documentation destination. |
-| [Public evidence audit](../../Evidence/github-evidence.md) | Durable local record of the commit count and link. |
 
 ## Portfolio framing
 

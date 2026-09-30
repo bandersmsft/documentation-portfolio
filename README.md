@@ -1,61 +1,70 @@
-# Bill Anderson documentation portfolio
+# Bill Anderson: technical documentation and content systems portfolio
 
-I build documentation systems for complex technical products. My work combines product learning, information architecture, customer troubleshooting, structured authoring, Git-based publishing, and automation that keeps content accurate and maintainable.
+I spent 26 years at Microsoft building and leading documentation for cloud finance, observability, systems management, APIs, security, and technical training. I owned major content sets, operated at high production volume, and built automation that refreshes, verifies, and ships documentation with human review.
 
-For a concise external version, use the [shareable portfolio brief](shareable-brief.md).
+## Career at a glance
 
-## Start here
+| Signal | Verified career fact |
+| --- | --- |
+| Microsoft experience | 26 years across systems management, cloud cost management and billing, and Azure Monitor. |
+| Contribution scale | 2,292 merged documentation pull requests across 33 Microsoft repositories. |
+| Azure Docs history | 3,404 publicly verifiable commits in Azure Docs. |
+| Product ownership | Sole writer for the Azure Cost Management and Billing content set for seven years. |
+| Azure Monitor | Documentation owner across alerts, metrics, logs, agents, data collection, autoscale, Health Models, launches, and deprecations. |
+| Documentation automation | Screenshot-freshness program covering 1,528 screenshots across 17 subservices, with roughly 4.2 hours saved per pull request. |
+| Technical systems | Autonomous documentation agents, browser automation, Model Context Protocol integrations, a VS Code extension, and 50 packaged agent skills. |
+| Security and governance | 44 security-hardening pull requests that replaced Global Administrator guidance with least-privileged roles. |
 
-| Portfolio piece | Best signal | Public evidence |
-| --- | --- | --- |
-| [Azure Cost Management and Billing](1-repo-assessments/azure-docs.md) | Product ownership at scale, cloud finance, FinOps, and customer workflows. | [Preserved Azure Docs fork](https://github.com/bandersmsft/azure-docs) |
-| [Azure Monitor](1-repo-assessments/azure-monitor.md) | Technical depth, information architecture, troubleshooting, and documentation automation. | [Preserved Azure Monitor fork](https://github.com/bandersmsft/azure-monitor-docs) |
-| [FinOps toolkit](0-finops-toolkit/case-study.md) | Open-source documentation, automation, contributor experience, and learning resources. | [FinOps toolkit repository](https://github.com/bandersmsft/finops-toolkit) |
-| [System Center](1-repo-assessments/system-center.md) | Long-term enterprise systems-management expertise. | [System Center evidence notes](evidence/system-center.md) |
+## Flagship work
 
-## What the portfolio proves
+### Azure Cost Management and Billing
 
-- I can become the documentation owner for a complex product area and make the customer path coherent.
-- I can improve information architecture, ownership metadata, navigation, redirects, and maintenance workflows.
-- I can turn support knowledge into safe, dependency-aware troubleshooting guidance.
-- I can document launches across concepts, deployment, configuration, operations, and troubleshooting.
-- I can work in public Git-based documentation systems and contribute to open-source technical content.
-- I can use automation and AI-assisted workflows while keeping technical accuracy and human review in control.
+I was the sole writer for the Azure Cost Management and Billing content set for seven years. I covered cost analysis, budgets, alerts, invoices, reservations, savings plans, billing, commerce, cost allocation, Azure Hybrid Benefit, REST APIs, and FinOps workflows. I also led the consolidation of separate Azure Billing and Azure Cost Management documentation into one customer journey and worked directly with product managers across billing, commerce, and FinOps.
 
-## Choose a version for the role
+Start with the [preserved Azure Docs repository](https://github.com/bandersmsft/azure-docs), the [Azure Cost Management and Billing overview](https://learn.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview), the [Analyze costs and create budgets learning module](https://learn.microsoft.com/training/modules/analyze-costs-create-budgets-azure-cost-management/), and the [detailed case study](1-repo-assessments/azure-docs.md).
 
-See the [role-positioning brief](role-positioning.md) for recommended emphasis in documentation leadership, documentation engineering, and AI or agent operations applications. See the [evidence matrix](evidence-matrix.md) before sharing any claim externally.
+### Azure Monitor
 
-## Contribution Evidence
+I owned documentation across alerts, metrics, logs, data collection rules, agents, autoscale, Health Models, launches, portal changes, deprecations, and troubleshooting. I reviewed teammate work for REST and Azure Resource Manager accuracy, role guidance, and portal correctness. I also improved information architecture and release-note quality while turning customer and product-manager requests into shipped guidance.
 
-Use the [contribution inventory](inventory.md) for repository status, counts, date ranges, and preservation notes. Use the [repository evidence files](evidence/) for recruiter-readable proof and the [preservation notes](archive-notes/preservation-notes.md) for durability risks.
+Start with the [preserved Azure Monitor repository](https://github.com/bandersmsft/azure-monitor-docs), the [Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/), and the [detailed case study](1-repo-assessments/azure-monitor.md).
 
-## Selected Technical Work
+### Documentation engineering and artificial intelligence automation
 
-Read the [selected work index](selected-work/selected-work.md) for ten representative examples across Cost Management, Azure Monitor, FinOps, AI, System Center, REST APIs, and Microsoft Learn.
+I built production documentation systems that run unattended and produce reviewable draft pull requests. The work includes schema-validated result envelopes, admission control, SHA-256 provenance pinning, a 117-assertion release gate, browser automation against the live Azure portal, customer-identifier sanitization, screenshot-freshness automation, and retrievability evaluation for artificial intelligence answering systems. A browser capture pipeline renders annotated output in roughly 12 seconds. I also authored a VS Code extension, 50 packaged agent skills, and Model Context Protocol integrations.
 
-## Microsoft Learn
+This work demonstrates that I build the systems that create, verify, maintain, and ship technical content. See the [Azure Monitor case study](1-repo-assessments/azure-monitor.md), the [role-positioning guide](role-positioning.md), and the [selected work index](selected-work/selected-work.md).
 
-Representative published work includes [Cost Management and Billing](https://learn.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview), [Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/), [Azure AI Video Indexer](https://learn.microsoft.com/en-us/azure/azure-video-indexer/), [Configuration Manager](https://learn.microsoft.com/mem/configmgr/), and [Analyze costs and create budgets](https://learn.microsoft.com/training/modules/analyze-costs-create-budgets-azure-cost-management/).
+### Microsoft Learn and training
 
-## Contribution Archive
+I authored Microsoft Learn training content, including [Introduction to analyzing costs and creating budgets](https://learn.microsoft.com/training/modules/analyze-costs-create-budgets-azure-cost-management/), which was localized into 17 languages. Earlier, as a U.S. Air Force systems analyst and IT trainer, I built a computer-based training program adopted as the Department of Defense baseline for medical logistics training.
 
-Microsoft controls the original MicrosoftDocs repositories and their public availability. This portfolio records preserved personal forks where they exist, distinguishes Microsoft-controlled historical links, and keeps local evidence for contribution counts, selected work, and preservation decisions.
+### System Center and enterprise systems
 
-## GitHub
+I documented Configuration Manager, Operations Manager, Service Manager, Capacity Planner, and System Center Advisor across successive product generations. I supported the transition to public GitHub-based documentation and later returned to own Azure Monitor documentation. The [System Center evidence notes](evidence/system-center.md) identify the Microsoft-controlled history and its preservation limitation.
 
-Visit [github.com/bandersmsft](https://github.com/bandersmsft). A remote `documentation-portfolio` repository was not created in this session because the connected GitHub tools did not expose repository-creation or fork operations. The local portfolio package is the current content source.
+## Selected impact
 
-## Recommended Resume URLs
+- 2,292 merged documentation pull requests across 33 Microsoft repositories.
+- 3,404 publicly verifiable commits in Azure Docs.
+- Roughly 275 to 350 merged pull requests in peak years.
+- 79 user stories and 100 story points closed in one peak Azure Monitor month while merging 33 pull requests.
+- 1,528 screenshots across 17 subservices in a freshness program that saved roughly 4.2 hours per pull request.
+- 44 security-hardening pull requests that moved guidance toward least-privileged access.
 
-Use the [preservation notes](archive-notes/preservation-notes.md#recommended-resume-urls) for the recommended public URLs and their durability classification. Prefer the personal Azure Docs fork, Azure Monitor fork, FinOps toolkit fork, and GitHub profile over Microsoft-owned repository URLs.
+## Explore the evidence
+
+- [Contribution inventory](inventory.md) for repository coverage, counts, date ranges, and preservation status.
+- [Selected technical work](selected-work/selected-work.md) for representative examples across cloud finance, observability, artificial intelligence, systems management, APIs, and training.
+- [Repository assessments](1-repo-assessments/README.md) for deeper product-area analysis.
+- [Evidence matrix](evidence-matrix.md) for public sources and careful claim framing.
+- [Preservation notes](archive-notes/preservation-notes.md) for personal forks and Microsoft-controlled historical evidence.
+- [Shareable portfolio brief](shareable-brief.md) for a shorter external version.
+
+## Recommended resume URL
+
+Use [github.com/bandersmsft/documentation-portfolio](https://github.com/bandersmsft/documentation-portfolio) as the primary portfolio link. Add the [preserved Azure Docs repository](https://github.com/bandersmsft/azure-docs) or [preserved Azure Monitor repository](https://github.com/bandersmsft/azure-monitor-docs) only when a role calls for a deeper technical example. The [GitHub profile](https://github.com/bandersmsft) is a secondary destination.
 
 ## Evidence boundary
 
-Public commit histories and published documentation are the external proof. Internal work summaries and Work IQ retrievals help reconstruct scope and outcomes, but they are private corroboration and should not be shared with hiring managers.
-
-## Public record
-
-- [Public GitHub evidence audit](../Evidence/github-evidence.md)
-- [Microsoft Learn training and enablement notes](../Resume/training-and-enablement.md)
-- [GitHub profile](https://github.com/bandersmsft)
+Public repository history and published documentation support the external claims in this portfolio. Internal work summaries informed the wording but are not published or linked here.

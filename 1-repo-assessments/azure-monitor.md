@@ -16,9 +16,8 @@ I owned and maintained customer-facing Azure Monitor documentation across monito
 | Evidence | What it shows |
 | --- | --- |
 | [Azure Monitor documentation repository](https://github.com/bandersmsft/azure-monitor-docs) | Public repository mirror associated with my GitHub account. |
-| [Azure Monitor documentation commits](https://github.com/MicrosoftDocs/azure-monitor-docs/commits?author=bandersmsft) | Publicly verifiable contribution history. |
+| [Azure Monitor documentation commits](https://github.com/bandersmsft/azure-monitor-docs/commits?author=bandersmsft) | Publicly verifiable contribution history in the preserved personal fork. |
 | [Azure Monitor documentation site](https://learn.microsoft.com/azure/azure-monitor/) | Published customer-facing documentation. |
-| [Local Work IQ evidence](../../Evidence/workiq-retrieval-01.md) | Internal corroboration for the information architecture, troubleshooting, metrics, and automation examples. |
 
 ## Strong examples to develop further
 

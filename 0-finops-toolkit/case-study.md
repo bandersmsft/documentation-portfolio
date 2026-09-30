@@ -29,7 +29,7 @@ This is a strong example of documentation engineering in an open-source cloud pr
 
 ## Use in applications
 
-Use this case study when a role values developer documentation, cloud platforms, open source, content systems, or technical enablement. Pair it with the [public Azure documentation evidence](../../Evidence/github-evidence.md) and the [training and enablement portfolio notes](../../Resume/training-and-enablement.md).
+Use this case study when a role values developer documentation, cloud platforms, open source, content systems, or technical enablement. Pair it with the [contribution inventory](../inventory.md) and the [shareable portfolio brief](../shareable-brief.md).
 
 ## Verification notes
 

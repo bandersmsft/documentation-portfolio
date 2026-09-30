@@ -17,7 +17,6 @@ The public evidence audit records contributions to the Azure Data Explorer docum
 | [Azure Data Explorer documentation repository](https://github.com/MicrosoftDocs/dataexplorer-docs) | Microsoft-owned public repository. No personal copy was verified. |
 | [Azure Data Explorer documentation commits](https://github.com/MicrosoftDocs/dataexplorer-docs/commits?author=bandersmsft) | 59 public commits in the September 2026 evidence audit. |
 | [Azure Data Explorer documentation](https://learn.microsoft.com/en-us/azure/data-explorer/) | Published documentation destination. |
-| [Public evidence audit](../../Evidence/github-evidence.md) | Durable local record of the commit count and link. |
 
 ## Portfolio framing
 

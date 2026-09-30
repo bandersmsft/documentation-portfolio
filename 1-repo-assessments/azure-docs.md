@@ -16,10 +16,9 @@ I owned and maintained Azure Cost Management and Billing documentation across co
 | Evidence | What it shows |
 | --- | --- |
 | [Azure documentation repository](https://github.com/bandersmsft/azure-docs) | Public repository mirror associated with my GitHub account. |
-| [Azure documentation commits](https://github.com/MicrosoftDocs/azure-docs/commits?author=bandersmsft) | Publicly verifiable contribution history and the largest public commit record in the portfolio. |
+| [Azure documentation commits](https://github.com/bandersmsft/azure-docs/commits?author=bandersmsft) | Publicly verifiable contribution history in the preserved personal fork and the largest public commit record in the portfolio. |
 | [Cost Management and Billing overview](https://learn.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview) | Published overview of the product area. |
 | [FinOps toolkit case study](../0-finops-toolkit/case-study.md) | Related open-source documentation and automation work. |
-| [Local Work IQ evidence](../../Evidence/workiq-retrieval-01.md) | Internal corroboration for Cost Management ownership, planning guidance, billing content, and FinOps handoff work. |
 
 ## Strong examples to develop further
 

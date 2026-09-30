@@ -17,7 +17,6 @@ I documented Microsoft systems-management products across successive generations
 | [SystemCenterDocs repository](https://github.com/MicrosoftDocs/SystemCenterDocs) | Public Microsoft documentation repository. |
 | [System Center documentation commits](https://github.com/MicrosoftDocs/SystemCenterDocs/commits?author=bandersmsft) | Publicly verifiable contribution history from the pre-Azure era. |
 | [Configuration Manager documentation](https://learn.microsoft.com/mem/configmgr/) | Current published destination for the product family. |
-| [Local Work IQ evidence](../../Evidence/workiq-retrieval-01.md) | Internal corroboration for Configuration Manager and Systems Management subject areas. |
 
 ## Portfolio framing
 

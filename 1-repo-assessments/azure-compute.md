@@ -15,9 +15,8 @@ I helped maintain documentation boundaries between Azure Monitor and Azure Compu
 | Evidence | What it shows |
 | --- | --- |
 | [Azure Compute documentation repository](https://github.com/bandersmsft/azure-compute-docs) | Public repository mirror associated with my GitHub account. |
-| [Azure Compute documentation commits](https://github.com/MicrosoftDocs/azure-compute-docs/commits?author=bandersmsft) | Publicly verifiable contribution history. |
+| [Azure Compute documentation commits](https://github.com/bandersmsft/azure-compute-docs/commits?author=bandersmsft) | Publicly verifiable contribution history in the preserved personal fork. |
 | [Azure Compute documentation site](https://learn.microsoft.com/azure/virtual-machines/) | Published customer-facing documentation destination. |
-| [Local Work IQ evidence](../../Evidence/workiq-retrieval-01.md) | Internal corroboration for the cross-repository ownership and metadata work. |
 
 ## Portfolio framing
 

@@ -49,7 +49,7 @@ This work demonstrates that I build the systems that create, verify, maintain, a
 
 I designed, authored, maintained, measured, and improved technical learning experiences. Across Cost Management and related topics, I contributed 31 merged pull requests to Microsoft Learn training and owned about five modules. I worked end to end from learning objectives and structured learning paths through hands-on exercises, assessments, instructional media, localization, launch, measurement, and iterative improvement.
 
-A representative example is [Introduction to analyzing costs and creating budgets with Microsoft Cost Management](https://learn.microsoft.com/training/modules/analyze-costs-create-budgets-azure-cost-management/), a seven-unit beginner module with hands-on exercises and assessment that was localized into 17 languages. I also created instructional scripts, videos, and supporting learning assets and used completion-rate data and learner feedback to improve lower-performing modules.
+A representative example is [Introduction to analyzing costs and creating budgets with Microsoft Cost Management](https://learn.microsoft.com/training/modules/analyze-costs-create-budgets-azure-cost-management/), a seven-unit beginner module with hands-on exercises and assessment that was localized into 17 languages. I also created instructional scripts, videos, and supporting learning assets and used completion-rate data and learner feedback to improve lower-performing modules. See the [Microsoft Learn Cost Management writing sample](samples/microsoft-learn-cost-management-writing-sample.pdf).
 
 ### U.S. Air Force systems analysis, DMLSS implementation, and training
 

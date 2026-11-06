@@ -13,7 +13,8 @@ I spent 26 years at Microsoft building documentation, content systems, and techn
 - Approximately 500 Air Force users trained across about 15 health care facilities during DMLSS implementations.
 - Reusable computer-based medical-logistics training adopted as the Department of Defense baseline.
 - 1,528 screenshots across 17 subservices in a freshness program that saved roughly 4.2 hours per pull request.
-- Production documentation agents, browser automation, Model Context Protocol integrations, a VS Code extension, and 50 packaged agent skills.
+- An autonomous documentation pipeline I designed and delivered as a team-tested system, plus browser automation, Model Context Protocol integrations, a VS Code extension, and 50 packaged agent skills.
+- Approximately 90 percent of day-to-day work AI-assisted during the final nine months, with manual review of every output and no autonomous pull-request merges.
 
 ## Flagship work
 
@@ -29,15 +30,15 @@ Public evidence: [preserved Azure Docs repository](https://github.com/bandersmsf
 
 I owned documentation across alerts, metrics, logs, data collection rules, agents, autoscale, Health Models, launches, portal changes, deprecations, and troubleshooting. I improved information architecture, technical accuracy, and release-note quality while turning customer, support, and product signals into shipped guidance.
 
-I used CSAT and OKR targets, freshness and page-view telemetry, support-ticket and Knowledge Base data, direct support-team input, public feedback, product-manager requests, and GitHub issues to identify gaps and prioritize improvements.
+I used CSAT and OKR targets, freshness and page-view telemetry, support-case and knowledge-base data, direct support-team input, public feedback, product-manager requests, and GitHub issues to identify gaps and prioritize improvements.
 
 Public evidence: [preserved Azure Monitor repository](https://github.com/bandersmsft/azure-monitor-docs) | [personal author history](https://github.com/bandersmsft/azure-monitor-docs/commits?author=bandersmsft) | [Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/) | [case study](1-repo-assessments/azure-monitor.md)
 
 ### Documentation engineering and artificial intelligence automation
 
-I designed autonomous documentation workflows that produce reviewable draft pull requests. The work includes schema-validated result envelopes, admission control, SHA-256 provenance pinning, a 117-assertion release gate, browser automation against the live Azure portal, customer-identifier sanitization, screenshot-freshness automation, and artificial intelligence retrievability evaluation. A browser capture pipeline renders annotated output in roughly 12 seconds.
+I designed an autonomous documentation pipeline that produces reviewable draft pull requests. I specified the behavior and constraints, directed AI coding agents through the implementation, integrated and operated the system, and set the acceptance gates. The design includes schema-validated result envelopes, admission control, SHA-256 provenance pinning, and a release gate of 11 test suites and 117 assertions. It was team-tested and ready for organizational adoption, and I do not claim production deployment. I also built browser automation against the live Azure portal, customer-identifier sanitization as a publication gate, screenshot-freshness automation covering 1,528 screenshots, and retrievability evaluation for artificial intelligence answering systems. The browser capture pipeline renders annotated output in roughly 12 seconds.
 
-I also authored a VS Code extension, 50 packaged agent skills, and Model Context Protocol integrations, and used generative-AI-, LLM-, and agent-assisted workflows for content creation, review, visual-asset and screenshot workflows, and quality checks.
+I authored my own VS Code extension, 50 packaged agent skills, and Model Context Protocol integrations. Separately, I operated and evaluated company-developed search, answer-engine, GitHub, and documentation agents that I did not design, and I reviewed every AI-generated output manually.
 
 ### Microsoft Learn, customer education, and learning experience design
 

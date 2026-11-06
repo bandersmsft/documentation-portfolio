@@ -17,9 +17,9 @@ Metrics, data collection rules, Azure Monitor Agent, troubleshooting, health mod
 
 ## Representative evidence
 
-- [Retire Azure Monitor Platform subservice, PR 5424](https://github.com/MicrosoftDocs/azure-monitor-docs-pr/pull/5424).
-- [Reconcile Azure Monitor Metrics overview, PR 5218](https://github.com/MicrosoftDocs/azure-monitor-docs-pr/pull/5218).
-- [Prepare Health Models docs for GA requirements, PR 5252](https://github.com/MicrosoftDocs/azure-monitor-docs-pr/pull/5252).
+- Retire Azure Monitor Platform subservice, PR 5424.
+- Reconcile Azure Monitor Metrics overview, PR 5218.
+- Prepare Health Models docs for GA requirements, PR 5252.
 - [Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/).
 
 ## Preservation notes

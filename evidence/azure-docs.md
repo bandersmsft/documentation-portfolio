@@ -17,8 +17,8 @@ Cost Management and Billing, FinOps, pricing, budgets, alerts, invoices, cost an
 
 ## Representative evidence
 
-- [CMB reporting update, PR 297069](https://github.com/MicrosoftDocs/azure-docs-pr/pull/297069).
-- [CMB wire-transfer note, PR 305216](https://github.com/MicrosoftDocs/azure-docs-pr/pull/305216).
+- CMB reporting update, PR 297069.
+- CMB wire-transfer note, PR 305216.
 - [Cost Management and Billing overview](https://learn.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview).
 - [Analyze costs and create budgets learning module](https://learn.microsoft.com/training/modules/analyze-costs-create-budgets-azure-cost-management/).
 

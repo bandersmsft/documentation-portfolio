@@ -12,27 +12,27 @@
 
 ### Azure AI docs
 
-- Original: [MicrosoftDocs/azure-ai-docs](https://github.com/MicrosoftDocs/azure-ai-docs).
+- Original: [bandersmsft/azure-ai-docs](https://github.com/bandersmsft/azure-ai-docs).
 - Preserved copy: [bandersmsft/azure-ai-docs](https://github.com/bandersmsft/azure-ai-docs).
 - Evidence: [public commit history](https://github.com/bandersmsft/azure-ai-docs/commits?author=bandersmsft) and [Azure AI documentation](https://learn.microsoft.com/en-us/azure/ai-services/).
-- The detailed Live Analysis launch work is recorded under [MicrosoftDocs/azure-video-indexer](https://github.com/MicrosoftDocs/azure-video-indexer), which has 73 merged pull requests in the local export but no verified personal copy.
+- The detailed Live Analysis launch work is recorded under [Azure AI Video Indexer documentation](https://learn.microsoft.com/azure/azure-video-indexer/), which has 73 merged pull requests in the local export but no verified personal copy.
 
 ### Azure Compute docs
 
 - Original: [MicrosoftDocs/azure-compute-docs](https://github.com/MicrosoftDocs/azure-compute-docs).
 - Preserved copy: [bandersmsft/azure-compute-docs](https://github.com/bandersmsft/azure-compute-docs).
-- Evidence: [public commit history](https://github.com/bandersmsft/azure-compute-docs/commits?author=bandersmsft), [Azure Virtual Machines documentation](https://learn.microsoft.com/en-us/azure/virtual-machines/), and [metadata ownership PR 2921](https://github.com/MicrosoftDocs/azure-compute-docs-pr/pull/2921).
+- Evidence: [public commit history](https://github.com/bandersmsft/azure-compute-docs/commits?author=bandersmsft), [Azure Virtual Machines documentation](https://learn.microsoft.com/en-us/azure/virtual-machines/), and metadata ownership PR 2921.
 
 ## Microsoft-controlled repositories with meaningful activity
 
-- [MicrosoftDocs/azure-video-indexer](https://github.com/MicrosoftDocs/azure-video-indexer): 73 merged PRs, including the 2025 Live Analysis launch.
-- [MicrosoftDocs/azure-docs-rest-apis](https://github.com/MicrosoftDocs/azure-docs-rest-apis): 49 merged PRs.
-- [MicrosoftDocs/partner-center](https://github.com/MicrosoftDocs/partner-center): 36 merged PRs.
+- [Azure AI Video Indexer documentation](https://learn.microsoft.com/azure/azure-video-indexer/): 73 merged PRs, including the 2025 Live Analysis launch.
+- MicrosoftDocs/azure-docs-rest-apis: 49 merged PRs.
+- [Partner Center documentation](https://learn.microsoft.com/partner-center/): 36 merged PRs.
 - [MicrosoftDocs/learn](https://github.com/MicrosoftDocs/learn): 31 merged PRs, including Learn module updates.
-- [MicrosoftDocs/DocsLegal](https://github.com/MicrosoftDocs/DocsLegal): 29 merged PRs.
-- [MicrosoftDocs/azure-carbon-optimization](https://github.com/MicrosoftDocs/azure-carbon-optimization): 25 merged PRs, including the API changelog reference article in PR 118.
-- [MicrosoftDocs/docs-help](https://github.com/MicrosoftDocs/docs-help): 10 merged PRs.
-- [MicrosoftDocs/learn-pr](https://github.com/MicrosoftDocs/learn-pr): 31 merged PRs in the exported record. Use it as workflow context, not as a personal repository.
+- MicrosoftDocs/DocsLegal: 29 merged PRs.
+- [Azure Carbon Optimization documentation](https://learn.microsoft.com/azure/carbon-optimization/): 25 merged PRs, including the API changelog reference article in PR 118.
+- MicrosoftDocs/docs-help: 10 merged PRs.
+- MicrosoftDocs/learn-pr: 31 merged PRs in the exported record. Use it as workflow context, not as a personal repository.
 
 ## Smaller public evidence entries
 

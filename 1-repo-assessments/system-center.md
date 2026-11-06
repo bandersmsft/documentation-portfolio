@@ -14,8 +14,8 @@ I documented Microsoft systems-management products across successive generations
 
 | Evidence | What it shows |
 | --- | --- |
-| [SystemCenterDocs repository](https://github.com/MicrosoftDocs/SystemCenterDocs) | Public Microsoft documentation repository. |
-| [System Center documentation commits](https://github.com/MicrosoftDocs/SystemCenterDocs/commits?author=bandersmsft) | Publicly verifiable contribution history from the pre-Azure era. |
+| [System Center documentation](https://learn.microsoft.com/system-center/) | Public Microsoft documentation repository. |
+| [System Center documentation commits](https://learn.microsoft.com/system-center/) | Publicly verifiable contribution history from the pre-Azure era. |
 | [Configuration Manager documentation](https://learn.microsoft.com/mem/configmgr/) | Current published destination for the product family. |
 
 ## Portfolio framing

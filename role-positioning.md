@@ -1,6 +1,14 @@
 # Portfolio role positioning
 
-The portfolio supports three primary lanes: technical documentation, documentation/content systems, and technical learning/customer education. Choose the lane that best matches the role rather than trying to present every capability at equal weight.
+The portfolio supports four primary lanes: technical content leadership, technical documentation, documentation and content systems, and technical learning and customer education. Choose the lane that best matches the role rather than trying to present every capability at equal weight.
+
+## Technical content leadership
+
+Lead with the [four case studies](case-studies/README.md). Emphasize content strategy and editorial prioritization, writing for technical buyers, subject matter expert orchestration, search and answer-engine readiness, AI-assisted production with quality gates, and content quality measurement. Pair it with [scope and boundaries](scope-and-boundaries.md) so the demand-generation gap is stated rather than discovered.
+
+Suggested positioning: "Technical content leader who turns complex infrastructure and AI products into prioritized content programs, writes for technical buyers, orchestrates engineering contributors, and uses AI in production with verification and human review."
+
+Use this lane for head of content, content strategy, content lead, and content operations roles at infrastructure, developer tools, and AI companies. Do not use it for roles whose core requirement is pipeline attribution or campaign ownership. See [an example role mapping](role-fit/head-of-content-vcluster.md) for how to mark strong, partial, and unsupported matches.
 
 ## Technical writing and documentation leadership
 

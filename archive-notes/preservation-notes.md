@@ -18,7 +18,7 @@ The author-filtered API returned authored commits for the personal `azure-docs`,
 
 ## Still dependent on Microsoft
 
-These important sources have no verified personal copy under `bandersmsft`: [MicrosoftDocs/SystemCenterDocs](https://github.com/MicrosoftDocs/SystemCenterDocs), [MicrosoftDocs/azure-video-indexer](https://github.com/MicrosoftDocs/azure-video-indexer), [MicrosoftDocs/azure-docs-rest-apis](https://github.com/MicrosoftDocs/azure-docs-rest-apis), [MicrosoftDocs/learn](https://github.com/MicrosoftDocs/learn), and [MicrosoftDocs/azure-carbon-optimization](https://github.com/MicrosoftDocs/azure-carbon-optimization). Their public links are historical or externally controlled evidence.
+These important sources have no verified personal copy under `bandersmsft`: [System Center documentation](https://learn.microsoft.com/system-center/), [Azure AI Video Indexer documentation](https://learn.microsoft.com/azure/azure-video-indexer/), MicrosoftDocs/azure-docs-rest-apis, [MicrosoftDocs/learn](https://github.com/MicrosoftDocs/learn), and [Azure Carbon Optimization documentation](https://learn.microsoft.com/azure/carbon-optimization/). Their public links are historical or externally controlled evidence.
 
 System Center remains the most important preservation gap. Preserve it only through an authorized fork or a local clone that retains the relevant history. Do not rewrite history, force push, or alter Microsoft repositories.
 

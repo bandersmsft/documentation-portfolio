@@ -2,9 +2,9 @@
 
 ## Repositories
 
-- Original: [MicrosoftDocs/SystemCenterDocs](https://github.com/MicrosoftDocs/SystemCenterDocs).
+- Original: [System Center documentation](https://learn.microsoft.com/system-center/).
 - Preserved copy: No personal copy verified under `bandersmsft`.
-- Public author-history URL: [MicrosoftDocs/SystemCenterDocs commits by bandersmsft](https://github.com/MicrosoftDocs/SystemCenterDocs/commits?author=bandersmsft). This is externally controlled.
+- Public author-history URL: [System Center documentation](https://learn.microsoft.com/system-center/). This is externally controlled.
 
 ## Contribution record
 
@@ -16,9 +16,9 @@ Configuration Manager, Operations Manager, Service Manager, Capacity Planner, da
 
 ## Representative evidence
 
-- [Remove orphaned article, PR 1610](https://github.com/MicrosoftDocs/SystemCenterDocs-pr/pull/1610).
-- [Update redirect file, PR 1483](https://github.com/MicrosoftDocs/SystemCenterDocs-pr/pull/1483).
-- [Update Operations Manager and Service Manager compatibility, PR 1465](https://github.com/MicrosoftDocs/SystemCenterDocs-pr/pull/1465).
+- Remove orphaned article, PR 1610.
+- Update redirect file, PR 1483.
+- Update Operations Manager and Service Manager compatibility, PR 1465.
 - [Configuration Manager documentation](https://learn.microsoft.com/mem/configmgr/).
 - [20 Years of SMS and Configuration Manager](https://learn.microsoft.com/en-us/archive/blogs/configmgrdogs/20-years-of-smsconfiguration-manager).
 

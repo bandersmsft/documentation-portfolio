@@ -1,6 +1,23 @@
-# Bill Anderson: technical documentation, content systems, and technical learning portfolio
+# Bill Anderson: technical content strategy, infrastructure content, and AI-assisted content systems
 
-I spent 26 years at Microsoft building and leading documentation, content systems, and technical learning for cloud finance, observability, systems management, APIs, security, and customer education. I owned major content sets, operated at high production volume, used customer and product signals to improve content, and built automation that refreshes, verifies, and ships documentation with human review. Earlier, in the U.S. Air Force, I combined systems analysis, technical training, implementation, and medical-logistics support.
+I build technical content programs for complex infrastructure and AI products. I spent 26 years at Microsoft owning documentation sets for Azure observability, cloud cost management, AI services, and enterprise systems management. I write for technical buyers and operators, audit and reorganize large content sets, orchestrate contributions from engineers and product managers, use AI in daily production with verification and human review, and evaluate whether content is retrievable by both search engines and AI answering systems.
+
+**What I do.** Technical content strategy and editorial prioritization. Writing for technical buyers and cloud operators. Content audits, information architecture, and governance. AI-assisted content production with quality gates. Search and answer-engine readiness. Content quality measurement.
+
+**Scale.** 2,292 merged documentation pull requests across 33 repositories, 4,289 public commits, and a peak year of 356 merged pull requests. The durable public proof is [3,404 commits in Microsoft public Azure documentation](https://github.com/MicrosoftDocs/azure-docs/commits?author=bandersmsft), verifiable without an account.
+
+**Where I stop.** I am not a demand-generation marketer, a Kubernetes cluster administrator, or a software engineer. [Scope and boundaries](scope-and-boundaries.md) states every limit precisely.
+
+## Start here: four case studies
+
+| Case study | Read it for |
+| --- | --- |
+| [Content strategy and audit](case-studies/content-strategy-and-audit.md) | Auditing a large observability content set, rating findings by severity, prioritizing against customer and support signals, and shipping the fixes. |
+| [AI-native content production](case-studies/ai-native-content-production.md) | Daily AI-assisted production, what I designed versus operated, and the human review boundary. |
+| [Infrastructure storytelling](case-studies/infrastructure-technical-storytelling.md) | Learning an infrastructure product, validating it in live clusters, and writing for operators under pressure. |
+| [Search and answer-engine readiness](case-studies/search-and-answer-engine-readiness.md) | Question-driven retrieval evaluation, LLM-as-a-judge scoring, and measured structural remediation. |
+
+Supporting pages: [transferable strengths](transferable-strengths.md) maps my experience to role families. [Scope and boundaries](scope-and-boundaries.md) states what the evidence does not support.
 
 ## Career at a glance
 
@@ -11,12 +28,12 @@ I spent 26 years at Microsoft building and leading documentation, content system
 | Azure Docs history | 3,404 publicly verifiable commits in Azure Docs. |
 | Product ownership | Sole writer for the Azure Cost Management and Billing content set for seven years. |
 | Azure Monitor | Documentation owner across alerts, metrics, logs, agents, data collection, autoscale, Health Models, launches, and deprecations. |
-| Customer-driven improvement | Used CSAT and OKR targets, page-view and freshness telemetry, support-ticket and Knowledge Base signals, public feedback, product-manager requests, and GitHub issues to prioritize improvements. |
+| Customer-driven improvement | Used CSAT and OKR targets, page-view and freshness telemetry, support-case and knowledge-base signals, public feedback, product-manager requests, and GitHub issues to prioritize improvements. |
 | Technical learning | Authored and maintained Microsoft Learn content across about five modules, tracked completion rates, and iteratively improved lower-performing learning experiences. |
 | Learning reach | Authored a seven-unit Cost Management module with exercises and assessment that was localized into 17 languages. |
-| Air Force training | Helped design and deliver DMLSS training at about 15 Air Force health care facilities, training approximately 500 users; a reusable computer-based medical-logistics program was later adopted as the Department of Defense baseline. |
+| Air Force training | Helped design and deliver DMLSS training at about 15 Air Force health care facilities, training approximately 500 users. A reusable computer-based medical-logistics program was later adopted as the Department of Defense baseline. |
 | Documentation automation | Screenshot-freshness program covering 1,528 screenshots across 17 subservices, with roughly 4.2 hours saved per pull request. |
-| Technical systems | Autonomous documentation agents, browser automation, Model Context Protocol integrations, a VS Code extension, and 50 packaged agent skills. |
+| Technical systems | An autonomous documentation pipeline I designed, browser automation, Model Context Protocol integrations, a VS Code extension, and 50 packaged agent skills. |
 | Security and governance | 44 security-hardening pull requests that replaced Global Administrator guidance with least-privileged roles. |
 
 ## Flagship work
@@ -33,17 +50,19 @@ Start with the [preserved Azure Docs repository](https://github.com/bandersmsft/
 
 I owned documentation across alerts, metrics, logs, data collection rules, agents, autoscale, Health Models, launches, portal changes, deprecations, and troubleshooting. I reviewed teammate work for REST and Azure Resource Manager accuracy, role guidance, and portal correctness. I also improved information architecture and release-note quality while turning customer and product-manager requests into shipped guidance.
 
-The work was explicitly data- and feedback-driven. I used CSAT and OKR targets, freshness and page-view telemetry, support-ticket and Knowledge Base data, direct support-team input, public feedback, product-manager requests, and GitHub issues to identify gaps and prioritize improvements. In one peak month, I closed 79 user stories and 100 story points while merging 33 pull requests.
+The work was explicitly data- and feedback-driven. I used CSAT and OKR targets, freshness and page-view telemetry, support-case and knowledge-base data, direct support-team input, public feedback, product-manager requests, and GitHub issues to identify gaps and prioritize improvements. In one peak month, I closed 79 user stories and 100 story points while merging 33 pull requests.
 
 Start with the [preserved Azure Monitor repository](https://github.com/bandersmsft/azure-monitor-docs), the [Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/), and the [detailed case study](1-repo-assessments/azure-monitor.md).
 
 ### Documentation engineering and artificial intelligence automation
 
-I built production documentation systems that run unattended and produce reviewable draft pull requests. The work includes schema-validated result envelopes, admission control, SHA-256 provenance pinning, a 117-assertion release gate, browser automation against the live Azure portal, customer-identifier sanitization, screenshot-freshness automation, and retrievability evaluation for artificial intelligence answering systems. A browser capture pipeline renders annotated output in roughly 12 seconds. I also authored a VS Code extension, 50 packaged agent skills, and Model Context Protocol integrations.
+I designed an autonomous documentation pipeline that runs unattended and produces reviewable draft pull requests. I was the technical systems designer and owner. I specified the behavior and constraints, directed AI coding agents through the implementation, integrated and operated the pipeline, analyzed failures, and set the acceptance gates. The design includes schema-validated result envelopes, admission control, SHA-256 provenance pinning, and a release gate of 11 test suites and 117 assertions. I built it for the Microsoft 2026 Hackathon as a team-tested system ready for organizational adoption. I was laid off two days after that work completed, so I do not know whether Microsoft deployed it and I do not claim production operation.
 
-I used generative-AI-, LLM-, and agent-assisted workflows not just for document generation, but for content creation, review, visual-asset and screenshot workflows, and quality checks. I also led Azure portal documentation automation work and created instructional/promotional video assets for that effort.
+Alongside it I built a browser capture pipeline that renders annotated output against the live Azure portal in roughly 12 seconds, a screenshot-freshness program covering 1,528 screenshots, customer-identifier sanitization as a publication gate, and retrievability evaluation for artificial intelligence answering systems. I authored my own VS Code extension, 50 packaged agent skills, and Model Context Protocol integrations.
 
-This work demonstrates that I build the systems that create, verify, maintain, and ship technical content. See the [Azure Monitor case study](1-repo-assessments/azure-monitor.md), the [role-positioning guide](role-positioning.md), and the [selected work index](selected-work/selected-work.md).
+I separate two kinds of AI experience on purpose. I operated and evaluated company-developed search, answer-engine, GitHub, and documentation agents that I did not design, filing bug reports and improvement feedback. I designed the pipeline and the personal tooling described above. I reviewed every AI-generated output manually and never allowed an AI system to merge a pull request.
+
+See the [AI-native content production case study](case-studies/ai-native-content-production.md), the [Azure Monitor case study](1-repo-assessments/azure-monitor.md), and the [role-positioning guide](role-positioning.md).
 
 ### Microsoft Learn, customer education, and learning experience design
 
@@ -77,12 +96,16 @@ I documented Configuration Manager, Operations Manager, Service Manager, Capacit
 
 ## Explore the evidence
 
+- [Four case studies](case-studies/README.md) for the featured work, each with audience, problem, method, evidence, and boundary.
+- [Transferable strengths](transferable-strengths.md) for a map from my experience to role families.
+- [Scope and boundaries](scope-and-boundaries.md) for what the evidence does not support.
 - [Contribution inventory](inventory.md) for repository coverage, counts, date ranges, and preservation status.
-- [Selected technical work](selected-work/selected-work.md) for representative examples across cloud finance, observability, artificial intelligence, systems management, APIs, and training.
+- [Selected technical work](selected-work/selected-work.md) for ten shorter examples across cloud finance, observability, artificial intelligence, systems management, APIs, and training.
 - [Repository assessments](1-repo-assessments/README.md) for deeper product-area analysis.
 - [Evidence matrix](evidence-matrix.md) for public sources and careful claim framing.
 - [Preservation notes](archive-notes/preservation-notes.md) for personal forks and Microsoft-controlled historical evidence.
 - [Shareable portfolio brief](shareable-brief.md) for a shorter external version.
+- [Role positioning guide](role-positioning.md) for choosing which lane to lead with, and [an example role mapping](role-fit/head-of-content-vcluster.md) showing how I mark strong, partial, and unsupported matches against a specific posting.
 
 ## Recommended resume URL
 

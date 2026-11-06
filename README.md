@@ -6,7 +6,7 @@ I build technical content programs for complex infrastructure and AI products. I
 
 **Scale.** 2,292 merged documentation pull requests across 33 repositories and 4,289 public commits, recorded in a September 2026 export and audit. The durable public proof is [3,404 commits in Microsoft public Azure documentation](https://github.com/MicrosoftDocs/azure-docs/commits?author=bandersmsft), verifiable without an account.
 
-**Where I stop.** I am not a demand-generation marketer, a Kubernetes cluster administrator, or a software engineer. [Scope and boundaries](scope-and-boundaries.md) states every limit precisely.
+**Evidence boundaries.** This portfolio separates direct evidence, transferable experience, and capabilities I do not claim. See [scope and boundaries](scope-and-boundaries.md) for the details.
 
 ## Three ways in
 
@@ -42,8 +42,25 @@ Pick the one that matches what you need to know.
 - [Product areas](product-areas/README.md). Short per-product summaries for Azure Cost Management, Azure Monitor, System Center, Azure AI, Azure Compute, Entra, Data Explorer, support articles, and the open-source FinOps toolkit.
 - [Selected technical work](selected-work/selected-work.md). Ten project-level examples with evidence and accuracy boundaries.
 - [Transferable strengths](transferable-strengths.md). A map from my experience to role families, including developer content, docs as code, content governance, and measurement.
+- [Role fit matrix](role-fit-matrix.md). A quick map from Head of Content requirements to direct evidence, transferable experience, and areas I do not claim.
 - [Scope and boundaries](scope-and-boundaries.md). What my evidence does not support, stated plainly.
 - [Microsoft Learn writing sample](samples/microsoft-learn-cost-management-writing-sample.pdf). A training module in its published form.
+
+## How I would apply this to a content marketing program
+
+This is a proposed operating approach, not a claim that I previously owned a demand-generation function.
+
+I would start with Product Marketing themes, buyer questions, field signals, product changes, and existing search and content evidence. I would turn those inputs into a prioritized editorial roadmap with clear audience, purpose, format, owner, review path, and publication target for each item.
+
+I would combine direct writing with contributor orchestration. I would interview product and engineering experts, shape their input into a coherent narrative, and coordinate review across Product Marketing, Developer Relations, Solutions Engineering, Product, and subject matter experts.
+
+I would establish search engine optimization and answer engine optimization baselines through a content and retrieval audit. I would prioritize questions and content gaps, improve structure and answer sufficiency, and measure organic and AI referral performance after the relevant analytics access and baselines were in place.
+
+I would connect each content initiative to its intended audience action, such as discovery, evaluation, adoption, or successful use. I would report what the available evidence shows and keep documentation quality metrics separate from conversion and pipeline metrics until those relationships were directly measured.
+
+I would use AI-assisted production with technical verification, human review, privacy checks, and quality gates. The goal would be a repeatable content engine that increases output without lowering trust.
+
+**Where I stop.** I am not a demand-generation marketer, a Kubernetes cluster administrator, or a software engineer. [Scope and boundaries](scope-and-boundaries.md) states every limit precisely.
 
 ## Evidence boundary
 

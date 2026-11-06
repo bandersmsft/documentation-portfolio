@@ -45,8 +45,8 @@ I validated procedures in live environments. I created and configured Azure virt
 | [Azure Monitor commit history](https://github.com/MicrosoftDocs/azure-monitor-docs/commits?author=bandersmsft) | 410 public commits in Microsoft's Azure Monitor documentation repository. |
 | [Preserved Azure Monitor repository](https://github.com/bandersmsft/azure-monitor-docs) | A personal public fork preserving the repository snapshot and imported history. |
 | [Azure Monitor documentation](https://learn.microsoft.com/azure/azure-monitor/) | The published content set this work maintained. |
-| [Private Link access-mode consolidation](https://github.com/MicrosoftDocs/azure-monitor-docs/commit/20dc0a7f2146553e851d3ac828c27762db3c0333) | A representative deduplication commit consolidating overlapping access-mode guidance. |
-| [Security and metrics freshness pass](https://github.com/MicrosoftDocs/azure-monitor-docs/commit/ad9e797b8139b452d39eb7bcae9e38897ca4ded4) | Private Link modes, role guidance, and container log updates in one freshness pass. |
+| [Private Link access-mode consolidation](https://github.com/bandersmsft/azure-monitor-docs/commit/20dc0a7f2146553e851d3ac828c27762db3c0333) | A representative deduplication commit consolidating overlapping access-mode guidance. |
+| [Security and metrics freshness pass](https://github.com/bandersmsft/azure-monitor-docs/commit/ad9e797b8139b452d39eb7bcae9e38897ca4ded4) | Private Link modes, role guidance, and container log updates in one freshness pass. |
 
 ## Outcome and evidence boundary
 

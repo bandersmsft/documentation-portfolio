@@ -43,10 +43,10 @@ I ran the procedures. I built Azure virtual machines and Kubernetes clusters, ex
 | Evidence | What it shows |
 | --- | --- |
 | [Azure Monitor commit history](https://github.com/MicrosoftDocs/azure-monitor-docs/commits?author=bandersmsft) | 410 public commits in Microsoft Azure Monitor documentation. |
-| [Kubernetes network observability metrics](https://github.com/MicrosoftDocs/azure-monitor-docs/commit/373ec2307654791695f3cd99100a45e32657404a) | Reference maintenance for Kubernetes network observability metrics. |
-| [Private Link access modes](https://github.com/MicrosoftDocs/azure-monitor-docs/commit/20dc0a7f2146553e851d3ac828c27762db3c0333) | Consolidated private connectivity access-mode guidance. |
-| [Security, metrics, and container logs](https://github.com/MicrosoftDocs/azure-monitor-docs/commit/ad9e797b8139b452d39eb7bcae9e38897ca4ded4) | Private Link modes, role guidance, and container log updates. |
-| [Firewall-protected storage export](https://github.com/MicrosoftDocs/azure-docs/commit/778231d5ce1a24c25d55e319d66f63d30f7f085e) | Storage firewalls, extra permissions, and trusted-service access. |
+| [Kubernetes network observability metrics](https://github.com/bandersmsft/azure-monitor-docs/commit/373ec2307654791695f3cd99100a45e32657404a) | Reference maintenance for Kubernetes network observability metrics. |
+| [Private Link access modes](https://github.com/bandersmsft/azure-monitor-docs/commit/20dc0a7f2146553e851d3ac828c27762db3c0333) | Consolidated private connectivity access-mode guidance. |
+| [Security, metrics, and container logs](https://github.com/bandersmsft/azure-monitor-docs/commit/ad9e797b8139b452d39eb7bcae9e38897ca4ded4) | Private Link modes, role guidance, and container log updates. |
+| [Firewall-protected storage export](https://github.com/bandersmsft/azure-docs/commit/778231d5ce1a24c25d55e319d66f63d30f7f085e) | Storage firewalls, extra permissions, and trusted-service access. |
 | [Azure Monitor documentation](https://learn.microsoft.com/azure/azure-monitor/) | The published content set. |
 | [Preserved Azure Monitor repository](https://github.com/bandersmsft/azure-monitor-docs) | Personal public fork with imported history. |
 

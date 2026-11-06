@@ -84,6 +84,8 @@ From the audit of September 22, 2026. The status column reflects a re-check on N
 | MicrosoftDocs/azure-security-docs | 25 | Repository removed |
 | [MicrosoftDocs/SupportArticles-docs](https://github.com/MicrosoftDocs/SupportArticles-docs/commits?author=bandersmsft) | 1 | Live |
 
+**Why the commit links above point at Microsoft while the proof links elsewhere point at my forks.** Microsoft's copy is the independent corroboration, and it works today. My synced fork is the durable copy. A commit identifier is a cryptographic hash of its own content and history, so it cannot be fabricated into Microsoft's repository, which is what makes the identifier meaningful. The [published work page](published-work.md) explains how to check either one.
+
 **What this means for the 4,289 figure.** It was accurate on the audit date and I state it with that date. As of November 6, 2026, about 4,067 of those commits are still publicly reachable. The 222 commits in the two removed repositories were recorded in a dated audit and can no longer be independently re-derived. The 31 commits in the third survive because a personal fork preserved the history.
 
 ## How to verify any of this
@@ -107,7 +109,9 @@ Where a Microsoft repository has been removed, a personal public fork is the onl
 | [bandersmsft/SupportArticles-docs](https://github.com/bandersmsft/SupportArticles-docs) | MicrosoftDocs/SupportArticles-docs | `main` |
 | [bandersmsft/finops-toolkit](https://github.com/bandersmsft/finops-toolkit) | microsoft/finops-toolkit | `dev` |
 
-One caveat worth stating. The author-filtered view returns my commits on the `azure-docs`, `azure-monitor-docs`, `azure-ai-docs`, and `azure-compute-docs` forks. It returns no matches on `finops-toolkit` or `SupportArticles-docs`, so those two preserve repository content without serving as proof of a personal author history. My FinOps toolkit contribution is evidenced instead by the six merged pull requests and the project README, which credits me by name.
+**These forks were synced on November 6, 2026 and are identical to their Microsoft parents**, confirmed by comparing branch tips. The author-filtered commit counts now match upstream exactly: 410 for `azure-monitor-docs`, 67 for `azure-compute-docs`, and 1 for `SupportArticles-docs`.
+
+One exception. The author filter returns no matches on `finops-toolkit` for either the Microsoft repository or my fork, because those contributions were merged in a way that did not preserve me as commit author. That work is evidenced instead by the six merged pull requests and the project README, which credits me by name.
 
 **The System Center gap.** System Center has no personal fork, and the Microsoft repository is now gone. Those 197 commits covered the 2005 to 2016 era, which was the only surviving public evidence of my pre-Azure decade. What remains is the pull request record in my private export, 105 entries with dates and titles, and the [published System Center documentation](https://learn.microsoft.com/system-center/). I state this as a loss rather than working around it.
 

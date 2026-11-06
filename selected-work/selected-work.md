@@ -8,7 +8,7 @@ These examples favor technical substance, product ownership, information archite
 - Date: 2016 to 2026 in the exported record.
 - What I did: Maintained customer guidance across cost analysis, budgets, alerts, invoices, pricing, billing accounts, APIs, allocation, and FinOps workflows.
 - Why it matters: Shows sustained ownership of a complex cloud-finance product area and the ability to connect many customer roles into one information architecture.
-- Evidence: [1,746 merged PRs in the exported record](../inventory.md), CMB reporting update, PR 297069, [Cost Management overview](https://learn.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview), and [preserved repository](https://github.com/bandersmsft/azure-docs).
+- Evidence: [1,746 merged PRs in the exported record](../contribution-record.md), CMB reporting update, PR 297069, [Cost Management overview](https://learn.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview), and [preserved repository](https://github.com/bandersmsft/azure-docs).
 
 ## 2. Retire the Azure Monitor Platform subservice
 
@@ -57,7 +57,7 @@ These examples favor technical substance, product ownership, information archite
 - Date: September 2026.
 - What I did: Structured Windows virtual machine and scale-set troubleshooting around installation, process health, heartbeat, data collection rule association, configuration download, expected results, interpretation, next actions, and verification.
 - Why it matters: Shows how to turn support knowledge into customer-safe diagnostic guidance without exposing internal-only diagnostics.
-- Evidence: [Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/), [Azure Monitor evidence notes](../evidence/azure-monitor-docs.md), and [preserved repository](https://github.com/bandersmsft/azure-monitor-docs).
+- Evidence: [Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/), [Azure Monitor evidence notes](../contribution-record.md), and [preserved repository](https://github.com/bandersmsft/azure-monitor-docs).
 
 ## 8. Maintain System Center documentation across product generations
 
@@ -65,7 +65,7 @@ These examples favor technical substance, product ownership, information archite
 - Date: 2016 to 2017 in the exported record, building on earlier Systems Management work.
 - What I did: Updated Service Manager and Operations Manager compatibility, redirects, release notes, and article structure.
 - Why it matters: Preserves the historical enterprise-systems thread of the career and demonstrates continuity through successive product generations.
-- Evidence: PR 1465, PR 1483, [Configuration Manager documentation](https://learn.microsoft.com/mem/configmgr/), and [System Center evidence notes](../evidence/system-center.md).
+- Evidence: PR 1465, PR 1483, [Configuration Manager documentation](https://learn.microsoft.com/mem/configmgr/), and [System Center evidence notes](../product-areas/system-center.md).
 
 ## 9. Correct Azure Compute documentation ownership metadata
 

@@ -43,7 +43,7 @@ This case study supports FinOps technical-content, product-enablement, and publi
 
 ## Use in applications
 
-Use this case study when a role values developer documentation, cloud platforms, open source, content systems, or technical enablement. Pair it with the [contribution inventory](../inventory.md) and the [shareable portfolio brief](../shareable-brief.md).
+Use this case study when a role values developer documentation, cloud platforms, open source, content systems, or technical enablement. Pair it with the [contribution inventory](../contribution-record.md) and the [portfolio landing page](../README.md).
 
 ## Verification notes
 

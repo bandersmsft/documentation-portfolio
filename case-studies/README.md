@@ -21,7 +21,7 @@ Every case study separates three things on purpose.
 
 ## Deeper material
 
-- [Contribution inventory](../inventory.md) for repository coverage, counts, date ranges, and preservation status.
+- [Contribution record](../contribution-record.md) for counts by product area, year, and work type, with sources and dates.
 - [Selected technical work](../selected-work/selected-work.md) for ten shorter examples across cloud finance, observability, AI services, systems management, APIs, and training.
-- [Repository assessments](../1-repo-assessments/README.md) for per-product analysis.
-- [Evidence matrix](../evidence-matrix.md) for claim-by-claim public proof and careful external wording.
+- [Product areas](../product-areas/README.md) for short per-product summaries.
+- [Published work](../published-work.md) for individual articles paired with the commits that prove authorship.

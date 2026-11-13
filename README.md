@@ -5,6 +5,7 @@ I am a technical writer and documentation systems leader with 26 years at Micros
 **Proof points.**
 - **Public and checkable:** [3,404 commits in Microsoft's public Azure documentation](https://github.com/MicrosoftDocs/azure-docs/commits?author=bandersmsft), verifiable without an account. Another 2,292 merged pull requests across 33 repositories come from my own September 2026 export of private repositories, so I label them as background, not public proof.
 - **Training that improved with measurement:** I wrote all six modules in a Microsoft Learn path on controlling Azure spending and revised lower-performing modules until completion improved.
+- **Reader impact:** Management described my Cost Management content set as performing well with customers and high on quality scores. When a Learn module's customer satisfaction fell in a given month, I assessed it, found the root cause, and revised it, and every module I owned exceeded organizational OKRs.
 - **AI with a human in the loop:** Every Uptime pull request was reviewed by a subject matter expert before merge, and no AI system merged anything.
 
 **Contact.** [LinkedIn](https://www.linkedin.com/in/bill-anderson-24010343a) | [GitHub](https://github.com/bandersmsft)

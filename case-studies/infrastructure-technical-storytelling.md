@@ -55,7 +55,3 @@ I ran the procedures. I built Azure virtual machines and Kubernetes clusters, ex
 **What this establishes.** I can learn an infrastructure product quickly, build an environment to test it, work with engineers who know it better than I do, and produce guidance an operator can follow under pressure. I did this across observability, containers, networking, identity, APIs, and AI services.
 
 **My Kubernetes boundary, stated precisely.** I created and configured Azure Kubernetes Service clusters to validate monitoring procedures. I am not a Kubernetes expert or an advanced cluster engineer, and my engineering partners were the technical specialists. My longer hands-on history is with Azure virtual machines and test environments, going back to about 2014. Do not read that span as Kubernetes experience.
-
-**What the commits do and do not show.** My contributions to networking and identity articles establish documentation work on storage firewalls, private connectivity, and access control. They do not establish independent firewall deployment or network engineering. A link correction in an authentication article is a link correction, not authorship of the authentication procedure.
-
-**What this does not establish.** It does not establish cluster administration, production infrastructure operations, Kubernetes software development, web application firewall administration, or enterprise identity administration.

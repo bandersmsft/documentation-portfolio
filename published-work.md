@@ -53,15 +53,11 @@ Landing pages for the content sets I was responsible for. These show scope rathe
 
 ## How to check a commit yourself
 
-Open any commit link. The page shows the author, the date, the commit message, and the full diff. The author name reads `Bill Anderson` with the email `banders@microsoft.com` on most of them, and `bandersmsft` on the most recent ones, where I had switched my Git configuration to a personal address.
+Open any commit link. The page shows the author, the date, the commit message, and the full diff. The author reads `Bill Anderson` under my Microsoft work address on most of them, and `bandersmsft` on the most recent ones, where I had switched my Git configuration to a personal address.
 
-**Why the links point at my own repositories.** Microsoft has been removing these documentation repositories. Three went offline between September and November 2026, taking 222 commits of my public record with them. The links above point at my synced forks so they keep working. Each fork is identical to its Microsoft parent at the time of writing, verified by comparing branch tips.
+**Why some links point at my own repositories.** Microsoft has removed three of these documentation repositories. Two of them (System Center and Azure security, 222 commits) are gone for good, and the third (Azure AI) survives as my fork. The links above point at my synced forks, which matched their Microsoft parents when I compared branch tips on November 6, 2026.
 
-**How to confirm independently.** Every commit identifier above also exists in Microsoft's copy. Swap `bandersmsft` for the Microsoft owner in any link and it resolves to the same commit, for as long as that repository exists. For example, [commit ad9e797b in Microsoft's repository](https://github.com/MicrosoftDocs/azure-monitor-docs/commit/ad9e797b8139b452d39eb7bcae9e38897ca4ded4) is the same commit as the one linked above.
-
-That matters for trust. A commit identifier is a cryptographic hash of its own content, author, date, and parent commit. I cannot invent a commit, give it a chosen identifier, and have it appear in Microsoft's history, because any change to the content or metadata produces a different hash and breaks the chain of every commit after it. So the identifier being present in Microsoft's repository is what makes it real, and the copy in my repository is what makes it durable.
-
-If Microsoft's copy is gone by the time you read this, the [Wayback Machine](https://web.archive.org/) holds dated snapshots of those pages.
+**Checking independently.** Every commit identifier here also exists in Microsoft's copy while that repository lasts. Swap `bandersmsft` for the Microsoft owner in any link and it resolves to the same commit, because a commit identifier is a hash of its own content, author, date, and parent. [Commit ad9e797b in Microsoft's repository](https://github.com/MicrosoftDocs/azure-monitor-docs/commit/ad9e797b8139b452d39eb7bcae9e38897ca4ded4) is one example.
 
 ## What this page does not show
 

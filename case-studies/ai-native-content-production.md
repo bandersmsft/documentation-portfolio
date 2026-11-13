@@ -71,5 +71,3 @@ Privacy was a gate rather than a cleanup step. Tenant and customer identifier sa
 **The status of Uptime.** Uptime was fully developed and team-tested, and it was ready for adoption by the documentation organization. I was laid off two days after the hackathon work completed and I do not know whether Microsoft deployed it. I do not claim production operation or organization-wide rollout.
 
 **My coding boundary.** This is AI-assisted systems development and agentic workflow engineering. I developed hundreds of Python and PowerShell scripts with coding-agent support, specified requirements and acceptance tests, reviewed and tested the results, and debugged failures with agent assistance. I do not independently author production code unaided, and I am not a production software engineer. I state this plainly because a content leader who overstates engineering depth gets found out in the first technical conversation.
-
-**What this does not establish.** It does not establish machine-learning engineering, model training, or AI platform ownership.

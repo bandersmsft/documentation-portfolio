@@ -8,7 +8,7 @@
 | Problem | Content can be accurate, published, and still never retrieved, or retrieved and still insufficient to answer the question. |
 | My role | I ran question-driven retrieval evaluation on a live Microsoft documentation set and delivered search-oriented content improvements. |
 | Method | Reference questions with expected answers, LLM-as-a-judge scoring, structural evaluation criteria, and human review. |
-| Verified outcome | Table-chunking violations fell from 227 to 216 and heading-hierarchy violations from 187 to 156, with 366 words removed across 20 articles while preserving 1,427 authored artifacts. |
+| Verified outcome | A repeatable method: reference questions with expected answers, scored by an LLM judge and reviewed by a human, applied to a live documentation set. Structural fixes were measured, with heading-hierarchy violations down from 187 to 156 and table-chunking violations from 227 to 216 across 20 articles. |
 
 ## The problem
 
@@ -64,7 +64,3 @@ Alongside that, I delivered the structural work that search depends on across Bi
 **What those numbers are and are not.** They are content-structure and retrievability measures. They are not claims of organic search growth, answer-engine referral traffic, or improved model answer accuracy. I am not going to convert a structural metric into a traffic metric, because they are different measurements and the substitution would not survive scrutiny.
 
 **Direct evidence versus transferable practice.** Direct evidence covers question-driven retrieval evaluation, reference answers and expected criteria, LLM-as-a-judge scoring, answer sufficiency assessment, chunk autonomy, heading hierarchy, structural remediation, and delivered search-oriented content improvements on a very large documentation property. Building a company search and answer-engine practice from the ground up, including the audit and the prioritized growth plan, is adjacent work I have the method for but have not owned as a marketing program.
-
-**Tools I do not claim.** I have not used Google Analytics 4, Search Console, Ahrefs, or Semrush. My measurement experience is documentation telemetry, customer satisfaction scoring, content freshness, and page views, reported through roughly ten years of Power BI report authoring on established datasets. I can learn the standard search stack quickly, and I would rather say that than imply a tool history I do not have.
-
-**What this does not establish.** It does not establish independent keyword research ownership, backlink or external link strategy, organic acquisition campaign ownership, conversion rate optimization, or Schema.org and knowledge-graph implementation.

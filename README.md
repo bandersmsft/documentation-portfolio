@@ -4,22 +4,18 @@ I am a technical writer and documentation systems leader with 26 years at Micros
 
 **Proof points.**
 - **Public and checkable:** [3,404 commits in Microsoft's public Azure documentation](https://github.com/MicrosoftDocs/azure-docs/commits?author=bandersmsft), verifiable without an account. Another 2,292 merged pull requests across 33 repositories come from my own September 2026 export of private repositories, so I label them as background, not public proof.
-- **Training that moved a metric:** I wrote all six modules in a Microsoft Learn path on controlling Azure spending and revised lower-performing modules until completion improved.
+- **Training that improved with measurement:** I wrote all six modules in a Microsoft Learn path on controlling Azure spending and revised lower-performing modules until completion improved.
 - **AI with a human in the loop:** Every Uptime pull request was reviewed by a subject matter expert before merge, and no AI system merged anything.
 
-**Evidence boundaries.** This portfolio separates direct evidence, transferable experience, and capabilities I do not claim. See [scope and boundaries](scope-and-boundaries.md) for the details.
+**Contact.** [LinkedIn](https://www.linkedin.com/in/bill-anderson-24010343a) | [GitHub](https://github.com/bandersmsft)
 
-## Three ways in
+## Start here (about two minutes)
 
-Pick the one that matches what you need to know.
+1. **Read my writing.** [Three articles that show the range](published-work.md#read-these-first), each paired with the public commit that proves it is mine.
+2. **See how I work.** [Content strategy and audit](case-studies/content-strategy-and-audit.md) shows an audit of a large observability documentation set, from findings to shipped fixes.
+3. **Check the numbers.** The [contribution record](contribution-record.md) gives counts by product area, year, and work type, each with its source and date.
 
-| If you want to | Go to |
-| --- | --- |
-| **Read my writing** and confirm it is mine | [Published work and spot checks](published-work.md). Individual articles paired with the public commits that prove authorship. Every link verified. |
-| **Understand how I work** | The four case studies below. Each covers audience, problem, method, evidence, and boundary. |
-| **Check the numbers** | [Contribution record](contribution-record.md). Counts by product area, by year, and by work type, each with its source and date. |
-
-## Four case studies
+## Case studies
 
 | Case study | Read it for |
 | --- | --- |
@@ -27,6 +23,7 @@ Pick the one that matches what you need to know.
 | [AI-native content production](case-studies/ai-native-content-production.md) | Daily AI-assisted production, what I designed versus operated, and the human review boundary. |
 | [Infrastructure storytelling](case-studies/infrastructure-technical-storytelling.md) | Learning an infrastructure product, validating it in live clusters, and writing for operators under pressure. |
 | [Search and answer-engine readiness](case-studies/search-and-answer-engine-readiness.md) | Question-driven retrieval evaluation, LLM-as-a-judge scoring, and measured structural remediation. |
+| [Customer education and training](case-studies/customer-education-and-training.md) | A Microsoft Learn path I wrote and revised, and classroom training I built for a Department of Defense logistics system. |
 
 ## Career summary
 
@@ -38,37 +35,18 @@ Pick the one that matches what you need to know.
 
 **U.S. Air Force, approximately 12 years.** Medical logistics, then systems analyst and trainer for the Defense Medical Logistics Standard Support system. I designed and delivered training at about 15 Air Force health care facilities for roughly 500 users, and built a computer-based medical-logistics program later adopted as the Department of Defense baseline.
 
-## Everything else
+## More
 
-- [Product areas](product-areas/README.md). Short per-product summaries for Azure Cost Management, Azure Monitor, System Center, Azure AI, Azure Compute, Entra, Data Explorer, support articles, and the open-source FinOps toolkit.
-- [Selected technical work](selected-work/selected-work.md). Six project-level examples with evidence and accuracy boundaries.
-- [Transferable strengths](transferable-strengths.md). A map from my experience to role families, including developer content, docs as code, content governance, and measurement.
-- [Role fit matrix](role-fit-matrix.md). A quick map from Head of Content requirements to direct evidence, transferable experience, and areas I do not claim.
+- [Product areas](product-areas/README.md). The documentation sets I owned, with public evidence for each.
+- [Selected technical work](selected-work/selected-work.md). Six project-level examples with evidence.
+- [Transferable strengths](transferable-strengths.md). My experience mapped to four role families.
 - [Scope and boundaries](scope-and-boundaries.md). What my evidence does not support, stated plainly.
 - [Microsoft Learn writing sample](samples/microsoft-learn-cost-management-writing-sample.pdf). A training module in its published form.
 
-## How I would apply this to a content marketing program
-
-This is a proposed operating approach, not a claim that I previously owned a demand-generation function.
-
-I would start with Product Marketing themes, buyer questions, field signals, product changes, and existing search and content evidence. I would turn those inputs into a prioritized editorial roadmap with clear audience, purpose, format, owner, review path, and publication target for each item.
-
-I would combine direct writing with contributor orchestration. I would interview product and engineering experts, shape their input into a coherent narrative, and coordinate review across Product Marketing, Developer Relations, Solutions Engineering, Product, and subject matter experts.
-
-I would establish search engine optimization and answer engine optimization baselines through a content and retrieval audit. I would prioritize questions and content gaps, improve structure and answer sufficiency, and measure organic and AI referral performance after the relevant analytics access and baselines were in place.
-
-I would connect each content initiative to its intended audience action, such as discovery, evaluation, adoption, or successful use. I would report what the available evidence shows and keep documentation quality metrics separate from conversion and pipeline metrics until those relationships were directly measured.
-
-I would use AI-assisted production with technical verification, human review, privacy checks, and quality gates. The goal would be a repeatable content engine that increases output without lowering trust.
-
-**Where I stop.** I am not a demand-generation marketer, a Kubernetes cluster administrator, or a software engineer. [Scope and boundaries](scope-and-boundaries.md) states every limit precisely.
-
 ## Evidence boundary
 
-Public commit history and published documentation support every externally verifiable claim here, and the [published work page](published-work.md) pairs each article with the commit that proves it.
+Public commit history and published documentation support every externally verifiable claim here. Career facts that rest on internal records are presented as professional background. My highest-volume work sits in Microsoft private authoring repositories whose URLs return HTTP 404 outside the organization, so the contribution record keeps those counts separate from the public figures.
 
-Career facts that depend on internal records are presented as professional background, not as publicly verifiable evidence. My highest-volume work sits in Microsoft private authoring repositories whose URLs return HTTP 404 for anyone outside the organization, so the [contribution record](contribution-record.md) keeps those counts separate from the public figures rather than combining them.
-
-Microsoft reassigned documentation bylines in a March 2025 reorganization, so published pages no longer carry my name. Commit history does, which is why every verification path in this portfolio runs through commits.
+Microsoft reassigned documentation bylines in a March 2025 reorganization, so published pages no longer carry my name. Commit history does, which is why every verification path here runs through commits. Links were last verified on November 6, 2026.
 
 This portfolio contains no confidential Microsoft content, internal URLs, proprietary screenshots, private repository content, or customer-identifying data.

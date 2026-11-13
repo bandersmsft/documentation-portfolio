@@ -1,10 +1,11 @@
 # Bill Anderson: technical content strategy, infrastructure content, and AI-assisted content systems
 
-I build technical content programs for complex infrastructure and AI products. I spent 26 years at Microsoft owning documentation sets for Azure observability, cloud cost management, AI services, and enterprise systems management. I write for technical buyers and operators, audit and reorganize large content sets, orchestrate contributions from engineers and product managers, use AI in daily production with verification and human review, and evaluate whether content is retrievable by both search engines and AI answering systems.
+I am a technical writer and documentation systems leader with 26 years at Microsoft. I was the sole writer for Azure Cost Management and Billing (Sep 2016 to Mar 2025), owned Azure Monitor documentation, and in 2026 designed Uptime, an AI-agent pipeline whose human-reviewed pull requests refreshed hundreds of stale product screenshots.
 
-**What I do.** Technical content strategy and editorial prioritization. Writing for technical buyers and cloud operators. Content audits, information architecture, and governance. AI-assisted content production with quality gates. Search and answer-engine readiness. Content quality measurement.
-
-**Scale.** 2,292 merged documentation pull requests across 33 repositories and 4,289 public commits, recorded in a September 2026 export and audit. The durable public proof is [3,404 commits in Microsoft public Azure documentation](https://github.com/MicrosoftDocs/azure-docs/commits?author=bandersmsft), verifiable without an account.
+**Proof points.**
+- **Public and checkable:** [3,404 commits in Microsoft's public Azure documentation](https://github.com/MicrosoftDocs/azure-docs/commits?author=bandersmsft), verifiable without an account. Another 2,292 merged pull requests across 33 repositories come from my own September 2026 export of private repositories, so I label them as background, not public proof.
+- **Training that moved a metric:** I wrote all six modules in a Microsoft Learn path on controlling Azure spending and revised lower-performing modules until completion improved.
+- **AI with a human in the loop:** Every Uptime pull request was reviewed by a subject matter expert before merge, and no AI system merged anything.
 
 **Evidence boundaries.** This portfolio separates direct evidence, transferable experience, and capabilities I do not claim. See [scope and boundaries](scope-and-boundaries.md) for the details.
 
@@ -29,18 +30,18 @@ Pick the one that matches what you need to know.
 
 ## Career summary
 
-**Microsoft, 2000 to 2026.** I owned documentation for Azure Cost Management and Billing as sole writer for seven years, Azure Monitor across alerts, metrics, logs, data collection, agents, autoscale, health models, and Kubernetes monitoring, and System Center across Configuration Manager, Operations Manager, and Service Manager. I was also sole writer for Azure AI Video Indexer and Azure Carbon Optimization. The work spanned REST APIs, Resource Manager and Bicep, structured XML and Markdown publishing, release-aligned guidance from private preview through general availability, and content audits driven by customer satisfaction, support, and usage signals.
+**Microsoft, 2000 to 2026.** I owned documentation for Azure Cost Management and Billing as sole writer (Sep 2016 to Mar 2025), Azure Monitor across alerts, metrics, logs, data collection, agents, autoscale, health models, and Kubernetes monitoring, and System Center across Configuration Manager, Operations Manager, and Service Manager. I was also sole writer for Azure AI Video Indexer and Azure Carbon Optimization. The work spanned REST APIs, Resource Manager and Bicep, structured XML and Markdown publishing, release-aligned guidance from private preview through general availability, and content audits driven by customer satisfaction, support, and usage signals.
 
 **Customer education.** I authored all six modules in the Microsoft Learn learning path on controlling Azure spending, contributed 31 merged pull requests to Microsoft Learn training, tracked completion rates and assessment scores, and revised lower-performing modules until completion improved. One seven-unit module was localized into 17 languages.
 
-**AI-assisted production, 2025 to 2026.** Approximately 90 percent of my day-to-day work was AI-assisted in my final nine months. I designed an autonomous documentation pipeline, built a Visual Studio Code extension and 50 agent skills, and ran screenshot freshness, browser automation, and retrieval evaluation programs. I reviewed every output and never allowed an AI system to merge a pull request.
+**AI-assisted production, 2025 to 2026.** Approximately 90 percent of my day-to-day work was AI-assisted in my final nine months. I designed an autonomous documentation pipeline, directed AI agents to build a Visual Studio Code extension and 50 agent skills, and ran screenshot freshness, browser automation, and retrieval evaluation programs. I reviewed every output and never allowed an AI system to merge a pull request.
 
 **U.S. Air Force, approximately 12 years.** Medical logistics, then systems analyst and trainer for the Defense Medical Logistics Standard Support system. I designed and delivered training at about 15 Air Force health care facilities for roughly 500 users, and built a computer-based medical-logistics program later adopted as the Department of Defense baseline.
 
 ## Everything else
 
 - [Product areas](product-areas/README.md). Short per-product summaries for Azure Cost Management, Azure Monitor, System Center, Azure AI, Azure Compute, Entra, Data Explorer, support articles, and the open-source FinOps toolkit.
-- [Selected technical work](selected-work/selected-work.md). Ten project-level examples with evidence and accuracy boundaries.
+- [Selected technical work](selected-work/selected-work.md). Six project-level examples with evidence and accuracy boundaries.
 - [Transferable strengths](transferable-strengths.md). A map from my experience to role families, including developer content, docs as code, content governance, and measurement.
 - [Role fit matrix](role-fit-matrix.md). A quick map from Head of Content requirements to direct evidence, transferable experience, and areas I do not claim.
 - [Scope and boundaries](scope-and-boundaries.md). What my evidence does not support, stated plainly.

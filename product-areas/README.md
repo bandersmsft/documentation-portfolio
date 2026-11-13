@@ -8,7 +8,7 @@ For individual articles you can read and verify, see [published work and spot ch
 
 | Product area | What I did | Public commits |
 | --- | --- | ---: |
-| [Azure Cost Management and Billing](azure-docs.md) | Sole writer for seven years. Cost analysis, budgets, alerts, invoices, reservations, savings plans, billing, cost allocation, REST APIs, and FinOps workflows. I also consolidated separate Billing and Cost Management documentation into one customer journey. | 3,404 |
+| [Azure Cost Management and Billing](azure-docs.md) | Sole writer, Sep 2016 to Mar 2025. Cost analysis, budgets, alerts, invoices, reservations, savings plans, billing, cost allocation, REST APIs, and FinOps workflows. I also consolidated separate Billing and Cost Management documentation into one customer journey. | 3,404 |
 | [Azure Monitor](azure-monitor.md) | Documentation owner across alerts, metrics, logs, data collection, agents, autoscale, health models, and Kubernetes monitoring. Information architecture, audits, and troubleshooting. | 410 |
 | [System Center](system-center.md) | Configuration Manager, Operations Manager, Service Manager, Capacity Planner, and System Center Advisor across successive product generations. | 197 |
 | [Azure AI](azure-ai.md) | Sole writer for Azure AI Video Indexer, including the Live Analysis feature launch, Arc deployment, private connectivity, and a security baseline. | 31 |

@@ -45,7 +45,7 @@ The commit below is the clearest single example of the audit work described in t
 
 Landing pages for the content sets I was responsible for. These show scope rather than individual authorship.
 
-- [Azure Cost Management and Billing](https://learn.microsoft.com/azure/cost-management-billing/cost-management-billing-overview). Sole writer for seven years.
+- [Azure Cost Management and Billing](https://learn.microsoft.com/azure/cost-management-billing/cost-management-billing-overview). Sole writer, Sep 2016 to Mar 2025.
 - [Azure Monitor](https://learn.microsoft.com/azure/azure-monitor/). Documentation owner across alerts, metrics, logs, data collection, agents, autoscale, health models, and Kubernetes monitoring.
 - [Azure AI Video Indexer](https://learn.microsoft.com/azure/azure-video-indexer/). Sole writer across 73 merged pull requests.
 - [Azure Carbon Optimization](https://learn.microsoft.com/azure/carbon-optimization/). Sole writer across 25 merged pull requests.

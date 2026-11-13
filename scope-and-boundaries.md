@@ -10,25 +10,13 @@ Specifically: owning large content sets for complex cloud products, auditing and
 
 ## What requires separate evidence
 
-These are capabilities the role market asks about that my record does not establish. I am not apologizing for them. I am marking them so nobody has to guess.
+These are capabilities the role market asks about that my record does not establish. I am marking them so nobody has to guess.
 
 **Demand generation and pipeline attribution.** I have not owned marketing campaigns, and I cannot show content attributed to pipeline or revenue. My measurement history is documentation telemetry, customer satisfaction, freshness, page views, and learner completion rates.
 
-**Webinars.** I have delivered live instructor-led technical training, classroom instruction, software demonstrations, customer-facing presentations, and instructional video. I have not run a recurring marketing webinar program.
+**Marketing programs.** I have delivered live instructor-led technical training, software demonstrations, and instructional video, but I have not run a recurring webinar program, produced named customer stories or industry research reports, written under an executive byline, built account-based programs, owned social channels, or used marketing analytics tools such as Google Analytics 4, Search Console, Ahrefs, or Semrush.
 
-**Customer stories.** I worked from customer feedback, support signals, and direct field collaboration. I have not produced named customer case studies or reference stories.
-
-**Annual research reports.** I have not produced an industry research report or worked with industry analysts.
-
-**Executive ghostwriting and media placement.** I have not written under an executive byline or placed content with press.
-
-**Account-based marketing.** I have not built account-specific assets or supported account-based programs.
-
-**Social media ownership.** I have not owned social channels or distribution.
-
-**Marketing analytics tools.** I have not used Google Analytics 4, Search Console, Ahrefs, or Semrush.
-
-**Formal people management.** My leadership evidence is program leadership, vendor and outsourced writer management, standards enforcement, and backlog ownership rather than a direct-report management history.
+**Formal people management.** My leadership evidence is program leadership, coordination and editing of vendor and outsourced writers, standards enforcement, and backlog ownership rather than a direct-report management history.
 
 ## Technical boundaries stated precisely
 
@@ -36,7 +24,7 @@ These are capabilities the role market asks about that my record does not establ
 
 **Software engineering.** I direct AI coding agents to create and revise scripts and components, specify requirements and acceptance tests, review and test results, and debug failures with agent assistance. I developed hundreds of Python and PowerShell scripts this way. I do not independently author production code unaided, and I am not a production software engineer.
 
-**AI systems.** I designed one autonomous documentation pipeline and built my own extension, agent skills, and Model Context Protocol integrations. I operated and evaluated company-developed agents that I did not design. I do not claim machine-learning engineering, model training, or AI platform ownership.
+**AI systems.** I designed one autonomous documentation pipeline and directed AI agents to build my own extension, agent skills, and Model Context Protocol integrations. I operated and evaluated company-developed agents that I did not design. I do not claim machine-learning engineering, model training, or AI platform ownership.
 
 **Identity and networking.** I contributed documentation covering storage firewalls, private connectivity, access control, and least-privileged roles. I do not claim enterprise identity administration, firewall deployment, web application firewall administration, or network engineering.
 

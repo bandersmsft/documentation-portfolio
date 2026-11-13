@@ -6,7 +6,7 @@
 | --- | --- |
 | Audience | Buyers and operators who search, and the AI answering systems that now stand between them and the content. |
 | Problem | Content can be accurate, published, and still never retrieved, or retrieved and still insufficient to answer the question. |
-| My role | I ran question-driven retrieval evaluation on a production documentation set and delivered search-oriented content improvements. |
+| My role | I ran question-driven retrieval evaluation on a live Microsoft documentation set and delivered search-oriented content improvements. |
 | Method | Reference questions with expected answers, LLM-as-a-judge scoring, structural evaluation criteria, and human review. |
 | Verified outcome | Table-chunking violations fell from 227 to 216 and heading-hierarchy violations from 187 to 156, with 366 words removed across 20 articles while preserving 1,427 authored artifacts. |
 

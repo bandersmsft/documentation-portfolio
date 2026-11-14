@@ -24,6 +24,8 @@ The second failure is drift. Infrastructure moves faster than its documentation.
 
 The surface included Container Insights, Kubernetes metrics and logging, cluster monitoring, Azure Monitor managed service for Prometheus, Grafana dashboards, Arc-enabled Kubernetes monitoring, and container log collection.
 
+**I wrote the Prometheus, Grafana, and OpenTelemetry guidance, and tested it myself.** I wrote and updated Azure Monitor articles on all three, including the OpenTelemetry Collector ingestion path through its move to general availability, Grafana dashboards and Azure authentication guidance, and Prometheus version references in the Container insights articles. For each topic I built a lab in my own Azure test subscription, ran the procedures I wrote, and captured fresh screenshots from that environment. For features still in progress, I worked with the Azure Kubernetes Service product manager. Dozens of my public commits in 2026 are on this content.
+
 **I restructured troubleshooting around the operator decision path.** For Windows virtual machine and scale-set agent troubleshooting, I organized the guidance as installation, process health, heartbeat, data collection rule association, configuration download, expected results, interpretation, next actions, and verification. That sequence is the diagnostic order an operator actually follows. It also let me turn internal support knowledge into customer-safe guidance without exposing internal-only diagnostics.
 
 **I treated version and port accuracy as a defect class.** I filed and worked tracked items for the deprecated cAdvisor port, the legacy Prometheus version pins, the stale Prometheus documentation link, the Kubernetes version pins, and an OpenTelemetry port documented as a standard path when it was a Microsoft-selected value. That last one matters to an operator building against the endpoint, because a Microsoft-chosen port and a protocol default carry different expectations.
@@ -44,6 +46,9 @@ I ran the procedures. I built Azure virtual machines and Kubernetes clusters, ex
 | --- | --- |
 | [Azure Monitor commit history](https://github.com/MicrosoftDocs/azure-monitor-docs/commits?author=bandersmsft) | 410 public commits in Microsoft Azure Monitor documentation. |
 | [Kubernetes network observability metrics](https://github.com/bandersmsft/azure-monitor-docs/commit/373ec2307654791695f3cd99100a45e32657404a) | Reference maintenance for Kubernetes network observability metrics. |
+| [Grafana 13 Azure authentication guidance](https://github.com/bandersmsft/azure-monitor-docs/commit/c08d0581) | Prometheus and Grafana article updated for a new Grafana version, July 2026. |
+| [OTLP Collector ingestion to general availability](https://github.com/bandersmsft/azure-monitor-docs/commit/549e81dd) | OpenTelemetry ingestion article moved out of preview, May 2026. |
+| [Stale Prometheus version references](https://github.com/bandersmsft/azure-monitor-docs/commit/0cf09490) | Version corrections in the Container insights articles, July 2026. |
 | [Private Link access modes](https://github.com/bandersmsft/azure-monitor-docs/commit/20dc0a7f2146553e851d3ac828c27762db3c0333) | Consolidated private connectivity access-mode guidance. |
 | [Security, metrics, and container logs](https://github.com/bandersmsft/azure-monitor-docs/commit/ad9e797b8139b452d39eb7bcae9e38897ca4ded4) | Private Link modes, role guidance, and container log updates. |
 | [Firewall-protected storage export](https://github.com/bandersmsft/azure-docs/commit/778231d5ce1a24c25d55e319d66f63d30f7f085e) | Storage firewalls, extra permissions, and trusted-service access. |
@@ -54,4 +59,4 @@ I ran the procedures. I built Azure virtual machines and Kubernetes clusters, ex
 
 **What this establishes.** I can learn an infrastructure product quickly, build an environment to test it, work with engineers who know it better than I do, and produce guidance an operator can follow under pressure. I did this across observability, containers, networking, identity, APIs, and AI services.
 
-**My Kubernetes boundary, stated precisely.** I created and configured Azure Kubernetes Service clusters to validate monitoring procedures. I am not a Kubernetes expert or an advanced cluster engineer, and my engineering partners were the technical specialists. My longer hands-on history is with Azure virtual machines and test environments, going back to about 2014. Do not read that span as Kubernetes experience.
+**Where my depth sits.** I wrote and tested Kubernetes, Prometheus, Grafana, and OpenTelemetry guidance in my own Azure lab, and I partnered with the product manager when features were in progress. My engineering partners were the cluster specialists. I do not claim cluster administration, Kubernetes software development, or production infrastructure operations. My longer hands-on history is with Azure virtual machines and test environments, going back to about 2014.

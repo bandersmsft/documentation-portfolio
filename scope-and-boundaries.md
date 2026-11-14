@@ -20,7 +20,7 @@ These are capabilities the role market asks about that my record does not establ
 
 ## Technical boundaries stated precisely
 
-**Kubernetes.** I created and configured Azure Kubernetes Service clusters to validate the monitoring procedures I documented, and I owned Azure Monitor documentation concerning Azure Kubernetes Service for roughly six months. I am not a Kubernetes expert or an advanced cluster engineer. I do not claim cluster administration, Kubernetes software development, or production infrastructure operations. My longer hands-on history is with Azure virtual machines and test environments.
+**Kubernetes.** I created and configured Azure Kubernetes Service clusters to validate the monitoring procedures I documented, and I owned Azure Monitor documentation concerning Azure Kubernetes Service for roughly six months. I also wrote and tested Prometheus, Grafana, and OpenTelemetry guidance in my own Azure lab, and I partnered with the product manager on features in progress. My depth is documentation and validation, not cluster engineering, so I do not claim cluster administration, Kubernetes software development, or production infrastructure operations. My longer hands-on history is with Azure virtual machines and test environments.
 
 **Software engineering.** I direct AI coding agents to create and revise scripts and components, specify requirements and acceptance tests, review and test results, and debug failures with agent assistance. I developed hundreds of Python and PowerShell scripts this way. I do not independently author production code unaided, and I am not a production software engineer.
 

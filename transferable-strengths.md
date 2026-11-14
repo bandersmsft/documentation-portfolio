@@ -22,7 +22,7 @@ I ran question-driven retrieval evaluation with reference answers and LLM-as-a-j
 
 I was sole writer for three product areas: Azure Cost Management and Billing (Sep 2016 to Mar 2025), Azure AI Video Indexer across 73 merged pull requests, and Azure Carbon Optimization across 25. The AI work covered feature launches, preview-to-general-availability transitions, Arc deployment, private connectivity, and security baselines.
 
-I owned Azure Monitor documentation across alerts, metrics, logs, data collection, agents, autoscale, health models, and Kubernetes monitoring. I validated procedures in clusters and virtual machines I built. See [infrastructure storytelling](case-studies/infrastructure-technical-storytelling.md).
+I owned Azure Monitor documentation across alerts, metrics, logs, data collection, agents, autoscale, health models, and Kubernetes monitoring. For nearly all the Azure services I documented, I tested what I wrote in my own test environment, often against prerelease UI, and captured fresh screenshots there. I validated procedures in clusters and virtual machines I built. See [infrastructure storytelling](case-studies/infrastructure-technical-storytelling.md).
 
 I have written REST API reference content, API changelogs documenting version deprecation paths, Resource Manager and Bicep material, schemas, quickstarts, and tutorials. The pull-request record includes 63 pull requests classified as REST API, Resource Manager, Bicep, or schema work, 49 in a dedicated REST API repository, 17 quickstarts, and 48 tutorials. I verified content against the Azure REST API specification rather than against prose.
 

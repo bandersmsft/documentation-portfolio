@@ -4,6 +4,7 @@ I am a technical writer and documentation systems leader with 26 years at Micros
 
 **Proof points.**
 - **Public and checkable:** Nearly 3,900 commits across three Microsoft documentation repositories (Azure docs, Azure Monitor, Azure Compute), with recent Azure Monitor commits dated through 2026. Anyone can verify them without an account, using the table below.
+- **Tested first-hand:** For nearly all the Azure services I documented, I tested what I wrote in my own test environment, often against prerelease UI, and captured fresh screenshots there. I did not write from specifications alone.
 - **Training that improved with measurement:** I wrote all six modules in a Microsoft Learn path on controlling Azure spending and revised lower-performing modules until completion improved.
 - **Reader impact:** Management described my Cost Management content set as performing well with customers and high on quality scores. When a Learn module's customer satisfaction fell in a given month, I assessed it, found the root cause, and revised it, and every module I owned exceeded organizational OKRs.
 - **AI with a human in the loop:** Every Uptime pull request was reviewed by a subject matter expert before merge, and no AI system merged anything.

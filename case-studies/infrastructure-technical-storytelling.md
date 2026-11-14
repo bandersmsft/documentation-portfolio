@@ -38,7 +38,7 @@ The surface included Container Insights, Kubernetes metrics and logging, cluster
 
 I verified technical values against the authoritative specification rather than against other articles, establishing the Azure REST API specification repository as the source of truth for portal, Resource Manager, API, and SDK behavior.
 
-I ran the procedures. I built Azure virtual machines and Kubernetes clusters, executed the walkthroughs, tested the API samples and PowerShell examples I published, and escalated product behavior problems I found before release. Across my career I was brought into feature design rather than handed finished software, and I delivered through private preview, public preview, and general availability alongside the implementation.
+I ran the procedures. For nearly all the Azure services I documented, I tested what I wrote in my own test environment, often against prerelease UI, and captured fresh screenshots there. I built Azure virtual machines and Kubernetes clusters, executed the walkthroughs, tested the API samples and PowerShell examples I published, and escalated product behavior problems I found before release. Across my career I was brought into feature design rather than handed finished software, and I delivered through private preview, public preview, and general availability alongside the implementation.
 
 ## Evidence
 

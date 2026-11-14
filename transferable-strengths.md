@@ -26,7 +26,7 @@ I owned Azure Monitor documentation across alerts, metrics, logs, data collectio
 
 I have written REST API reference content, API changelogs documenting version deprecation paths, Resource Manager and Bicep material, schemas, quickstarts, and tutorials. The pull-request record includes 63 pull requests classified as REST API, Resource Manager, Bicep, or schema work, 49 in a dedicated REST API repository, 17 quickstarts, and 48 tutorials. I verified content against the Azure REST API specification rather than against prose.
 
-I worked in Git-based documentation for a decade, with 2,292 merged pull requests across 33 repositories and 4,289 public commits (September 2026 audit). I reviewed teammate work, contributed to a public open-source repository, synchronized content across repositories, and directed AI agents to build a credential helper and pre-commit enforcement for my own workflow. Before GitHub I worked in structured XML authoring with modular topics, schemas, metadata, reusable content, and multi-output publishing.
+I worked in Git-based documentation for a decade, with over 4,000 public commits across six Microsoft documentation repositories. I reviewed teammate work, contributed to a public open-source repository, synchronized content across repositories, and directed AI agents to build a credential helper and pre-commit enforcement for my own workflow. Before GitHub I worked in structured XML authoring with modular topics, schemas, metadata, reusable content, and multi-output publishing.
 
 ## Training and enablement
 

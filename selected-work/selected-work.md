@@ -8,7 +8,7 @@ These six examples favor technical substance, product ownership, information arc
 - Date: 2016 to 2026 in the exported record.
 - What I did: Maintained customer guidance across cost analysis, budgets, alerts, invoices, pricing, billing accounts, APIs, allocation, and FinOps workflows.
 - Why it matters: Shows sustained ownership of a complex cloud-finance product area and the ability to connect many customer roles into one information architecture.
-- Evidence: [2,292 merged PRs across all repositories (1,746 in azure-docs-pr)](../contribution-record.md), CMB reporting update, PR 297069, [Cost Management overview](https://learn.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview), and [preserved repository](https://github.com/bandersmsft/azure-docs).
+- Evidence: [3,404 public commits in azure-docs](https://github.com/MicrosoftDocs/azure-docs/commits?author=bandersmsft), the [contribution record](../contribution-record.md), CMB reporting update, PR 297069, [Cost Management overview](https://learn.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview), and [preserved repository](https://github.com/bandersmsft/azure-docs).
 
 ## 2. Retire the Azure Monitor Platform subservice
 

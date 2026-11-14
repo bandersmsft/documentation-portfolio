@@ -8,10 +8,11 @@ I keep the full row-level export privately and can share it with a specific empl
 
 | Measure | Value | Source |
 | --- | --- | --- |
-| Merged pull requests | 2,292 | Export of September 22, 2026 |
+| Public commits, live in Microsoft repositories | 4,036 | Re-checked November 6, 2026 |
+| Merged pull requests, private authoring repositories (my own export) | 2,292 | Export of September 22, 2026 |
 | Distinct repositories | 33 | Same export |
 | Date range | June 2016 to September 2026 | Same export |
-| Public commits | 4,289 | Public commit audit of September 22, 2026 |
+| Public commits at audit, including three since-removed repositories | 4,289 | Public commit audit of September 22, 2026 |
 | Peak year | 356 merged pull requests in 2024 | Same export |
 
 Two notes on reading these. The pull request export begins in June 2016 because that is when this work moved to Git, so it does not represent the years before that. The public commit count and the pull request count measure different things, which is why they do not reconcile: commits land in public mirror repositories, while pull requests were raised in separate private authoring repositories.

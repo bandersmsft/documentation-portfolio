@@ -16,7 +16,5 @@ The documentation sets I owned or contributed to, by product. For articles you c
 
 | Product area | What I did | Public commits |
 | --- | --- | ---: |
-| Microsoft Entra | Identity and access documentation, including least-privilege role guidance. | [94](https://github.com/MicrosoftDocs/entra-docs/commits?author=bandersmsft) |
-| Azure Compute | Corrected ownership metadata between Azure Monitor and Azure Compute articles so reviewer routing and maintenance followed the right product. | [68](https://github.com/bandersmsft/azure-compute-docs/commits?author=bandersmsft) |
-| Azure Data Explorer | Analytics documentation contributions. | [59](https://github.com/MicrosoftDocs/dataexplorer-docs/commits?author=bandersmsft) |
+| Azure Compute | Reservation and cost-management notes in the compute repository, and ownership-metadata corrections between Azure Monitor and Azure Compute articles so reviewer routing followed the right product. | [68](https://github.com/bandersmsft/azure-compute-docs/commits?author=bandersmsft) |
 | FinOps toolkit (open source) | Six merged pull requests, Jun to Nov 2024: editorial pass, Microsoft Fabric content, a release update, and content synchronization with Microsoft Learn and Partner Center. Documentation only, not toolkit code. | [Commits](https://github.com/microsoft/finops-toolkit/commits?author=bandersmsft) |

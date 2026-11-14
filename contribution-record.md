@@ -85,6 +85,8 @@ From the audit of September 22, 2026. The status column reflects a re-check on N
 | MicrosoftDocs/azure-security-docs | 25 | Repository removed |
 | [MicrosoftDocs/SupportArticles-docs](https://github.com/MicrosoftDocs/SupportArticles-docs/commits?author=bandersmsft) | 1 | Live |
 
+**Reading the smaller repositories.** The commits I checked in `entra-docs` (94), `dataexplorer-docs` (59), and `azure-compute-docs` (68) are mostly Cost Management and Billing content that moved through those shared repositories, such as merge-conflict fixes, build-warning fixes, and reservation notes. I do not list them as ownership of Entra, Data Explorer, or Compute documentation.
+
 **Why the commit links above point at Microsoft while the proof links elsewhere point at my forks.** Microsoft's copy is the independent corroboration, and it works today. My synced fork is the durable copy. A commit identifier is a cryptographic hash of its own content and history, so it cannot be fabricated into Microsoft's repository, which is what makes the identifier meaningful. The [published work page](published-work.md) explains how to check either one.
 
 **What this means for the 4,289 figure.** It was accurate on the audit date and I state it with that date. As of November 6, 2026, about 4,067 of those commits are still publicly reachable. The 222 commits in the two removed repositories were recorded in a dated audit and can no longer be independently re-derived. The 31 commits in the third survive because a personal fork preserved the history.

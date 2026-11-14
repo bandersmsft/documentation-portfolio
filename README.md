@@ -3,7 +3,7 @@
 I am a technical writer and documentation systems leader with 26 years at Microsoft. I was the sole writer for Azure Cost Management and Billing (Sep 2016 to Mar 2025), owned Azure Monitor documentation, and in 2026 designed Uptime, an AI-agent pipeline whose human-reviewed pull requests refreshed hundreds of stale product screenshots.
 
 **Proof points.**
-- **Public and checkable:** Over 4,000 commits across six Microsoft documentation repositories, 3,404 of them in Azure documentation. Anyone can verify them without an account, using the table below.
+- **Public and checkable:** Nearly 3,900 commits across three Microsoft documentation repositories (Azure docs, Azure Monitor, Azure Compute), with recent Azure Monitor commits dated through 2026. Anyone can verify them without an account, using the table below.
 - **Training that improved with measurement:** I wrote all six modules in a Microsoft Learn path on controlling Azure spending and revised lower-performing modules until completion improved.
 - **Reader impact:** Management described my Cost Management content set as performing well with customers and high on quality scores. When a Learn module's customer satisfaction fell in a given month, I assessed it, found the root cause, and revised it, and every module I owned exceeded organizational OKRs.
 - **AI with a human in the loop:** Every Uptime pull request was reviewed by a subject matter expert before merge, and no AI system merged anything.
@@ -14,9 +14,7 @@ I am a technical writer and documentation systems leader with 26 years at Micros
 | --- | ---: | --- | --- |
 | azure-docs | 3,404 | [Commits](https://github.com/MicrosoftDocs/azure-docs/commits?author=bandersmsft) | [Commits](https://github.com/bandersmsft/azure-docs/commits?author=bandersmsft) |
 | azure-monitor-docs | 410 | [Commits](https://github.com/MicrosoftDocs/azure-monitor-docs/commits?author=bandersmsft) | [Commits](https://github.com/bandersmsft/azure-monitor-docs/commits?author=bandersmsft) |
-| entra-docs | 94 | [Commits](https://github.com/MicrosoftDocs/entra-docs/commits?author=bandersmsft) | |
 | azure-compute-docs | 68 | [Commits](https://github.com/MicrosoftDocs/azure-compute-docs/commits?author=bandersmsft) | [Commits](https://github.com/bandersmsft/azure-compute-docs/commits?author=bandersmsft) |
-| dataexplorer-docs | 59 | [Commits](https://github.com/MicrosoftDocs/dataexplorer-docs/commits?author=bandersmsft) | |
 
 **Contact.** [LinkedIn](https://www.linkedin.com/in/bill-anderson-24010343a) | [GitHub](https://github.com/bandersmsft)
 
